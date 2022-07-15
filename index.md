@@ -4,8 +4,8 @@
 React.js, Tailwindcss, Next.js, Mobx, Rest API
 
 **e-mail:** kotkoa@gmail.com | **location:** Spain | **mob:** +34 647-185-406
-**Russian** (native) | **English** (B1-B2)
-[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa)
+**language:** | **Russian** (native) | **English** (B1-B2)
+[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
 
 ### ABOUT ME
 
