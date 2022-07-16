@@ -10,7 +10,7 @@ React.js, Tailwindcss, Next.js, Mobx, Rest API
 ### ABOUT ME
 
 I'm a self-taught Javascript Developer, now working with React.js, Tailwindscc, and Mobx. I seek a Middle Frontend Developer position in an EU-based team that will utilize my professional and technical skills. My 10+ years of IT experience allows me to understand the dependency quality result of teamwork.  
-I'm reliable, having-an-eye for a details front-end developer with a passion to provide high-quality UI for the end users. I have focused to create things that didn't exist before and are new to the world. Pay attention to details, with an ability to concentrate on routine tasks, and a strong drive to constantly improve my own skills.
+I'm reliable, having-an-eye for a details front-end developer with a passion to provide high-quality UI for the end users. I have focused to create things that didn't exist before and are new to the world. Pay attention to details, with an ability to concentrate on routine tasks, and have a strong drive to constantly improve my skills.
 
 ### EXPERIENCE
 
@@ -20,10 +20,10 @@ _From Dec 2021 to Jul 2022_
 
 I am responsible for the development of Landing pages and Web-apps on React from scratch, new layout development on Tailwindcss based on Figma design, and email HTML templates.
 
-- Rewritten MaterialUI proof of concept into module.scss production-ready application
-- Migrating the web app from Redux, Redux-toolkit to MobX
+- Transferred MaterialUI concept into styled components application
+- Migrated the web app from Redux, Redux-toolkit to MobX
 - Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
-- Using internationalization in the web app with i18n
+- Added internationalization in the web app with i18n
 
 **Javascript Developer React.JS & Node.JS**  
 Freelance, Tenerife, Spain - Remote  
@@ -33,14 +33,14 @@ _From Jan 2020 to Dec 2021_
 - RESTful API's Node.js and Express
 - low-level CSS framework Tailwind
 
-**Account Manager of Microstocks and Analitic**  
-Family business at kotkoa.com  
+**Account Manager of Microstocks and Analytic**  
+Kotkoa.com - a family business  
 _From Jun 2012 to Jun 2020_
 
 - Maintenance of 20 stores with content updating
 - Compiling lists of selling keywords
 - Sales analysis
-- Leadership of small team of 4 employees
+- The leadership of a small team of 4 employees
 
 **Project Manager**
 Ramotion.com, Ukraine
@@ -61,9 +61,9 @@ AllDevelop.com, Sevastopol, Ukraine
 _From Sep 2008 to Jab 2010_
 
 - Creating HTML markup templates
-- Updating and modifying of existing CSS code
-- Maintained HTML content on a daily basis
-- Processed data in a content
+- Updating and modifying existing CSS code
+- Maintainance HTML content daily
+- Processing data in a content
 
 ### SKILLS
 
@@ -72,11 +72,11 @@ _From Sep 2008 to Jab 2010_
 - React, Redux, Mobx
 - Tailwindcss, SCSS, MaterialUI, BEM, Styled Components npm, yarn
 - ExpressJS, NextJS
-- REST API, fetch, axios
+- REST API, Fetch, Axios
 
 ### EDUCATION
 
-**Bachelor degree of Instrument engineering**  
+**Bachelor's degree in Instrument engineering**  
 Sevastopol State Technical University - Sevastopol, Ukraine
 
 - From September 1999 to May 2004
