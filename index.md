@@ -26,16 +26,16 @@ I am responsible for the development of Landing pages and Web-apps on React from
 - Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
 - Using internationalization in the web app with i18n
 
-**Javascript Developer React.JS & Node.JS**
-Freelance, Tenerife, Spain - Remot
+**Javascript Developer React.JS & Node.JS**  
+Freelance, Tenerife, Spain - Remote  
 _From Jan 2020 to Dec 2021_
 
 - Frontend with React/Redux
 - RESTful API's Node.js and Express
 - low-level CSS framework Tailwind
 
-**Account Manager of Microstocks and Analitic**
-Family business at kotkoa.com
+**Account Manager of Microstocks and Analitic**  
+Family business at kotkoa.com  
 _From Jun 2012 to Jun 2020_
 
 - Maintenance of 20 stores with content updating
@@ -49,16 +49,16 @@ _From Sep 2010 to May 2013_
 
 - Managing the iOs projects and contributing to the AppStore.
 
-**Account manager**
-Studio3dlife.com, Ukraine
+**Account manager**  
+Studio3dlife.com, Ukraine  
 _From Jan 2009 to Aug 2010_
 
 - Managing of own startup
 - Training and coaching employees
 - Communicating with customers
 
-**Html-CSS Developer**
-AllDevelop.com, Sevastopol, Ukraine
+**Html-CSS Developer**  
+AllDevelop.com, Sevastopol, Ukraine  
 _From Sep 2008 to Jab 2010_
 
 - Creating HTML markup templates
