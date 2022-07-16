@@ -65,14 +65,14 @@ _From Sep 2008 to Jab 2010_
 - Maintainance HTML content daily
 - Processing data in a content
 
-### SKILLS
-
-**JavaScript**
-
-- React, Redux, Mobx
-- Tailwindcss, SCSS, MaterialUI, BEM, Styled Components npm, yarn
-- ExpressJS, NextJS
-- REST API, Fetch, Axios
+| ### HARD SKILLS                                         | ### SOFT ASSETS  |
+| ------------------------------------------------------- | ---------------- |
+| **JavaScript**                                          |                  |
+| - React, Redux, Mobx                                    | - Accountable    |
+| - Tailwindcss, SCSS, MaterialUI, BEM, Styled Components | - Team player    |
+| - npm, yarn, git                                        | - Problem solver |
+| - ExpressJS, NextJS                                     | - Flexible       |
+| - REST API, Fetch, Axios                                | - Asperger       |
 
 ### EDUCATION
 
