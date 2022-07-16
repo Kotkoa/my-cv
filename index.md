@@ -16,7 +16,8 @@ I'm reliable, having-an-eye for a details front-end developer with a passion to 
 
 **Frontend developer**  
 Cryptic Labs, Los Angeles - Remote  
-_From Dec 2021 to Jul 2022_  
+_From Dec 2021 to Jul 2022_
+
 I am responsible for the development of Landing pages and Web-apps on React from scratch, new layout development on Tailwindcss based on Figma design, and email HTML templates.
 
 - Rewritten MaterialUI proof of concept into module.scss production-ready application
