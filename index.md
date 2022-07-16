@@ -9,8 +9,8 @@ React.js, Tailwindcss, Next.js, Mobx, Rest API
 
 ### ABOUT ME
 
-I'm a self-taught Javascript Developer, now working with React.js, Tailwindscc, and Mobx. I seek a Middle Frontend Developer position in an EU-based team that will utilize my professional and technical skills. My 10+ years of IT experience allows me to understand the dependency quality result of teamwork.  
-I'm reliable, having-an-eye for a details front-end developer with a passion to provide high-quality UI for the end users. I have focused to create things that didn't exist before and are new to the world. Pay attention to details, with an ability to concentrate on routine tasks, and have a strong drive to constantly improve my skills.
+I'm a self-taught Javascript Developer, now working with React.js, Tailwindscc, and Mobx. I'm looking for a Middle Frontend Developer position in an EU-based team that will use my professional and technical skills.
+I'm reliable and pay attention to details front-end developer with a passion to provide high-quality UI for the end users. I'm focused to create things that didn't exist before and are new to the world. I have an ability to concentrate on routine tasks, and have a strong drive to constantly improve my skills.
 
 ### EXPERIENCE
 
