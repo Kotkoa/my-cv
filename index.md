@@ -1,6 +1,6 @@
 ## Andriy Kotko
 
-**Frontend developer**
+**Frontend developer**  
 React.js, Tailwindcss, Next.js, Mobx, Rest API
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | _Spain_ | **+34 647-185-406**
@@ -9,16 +9,14 @@ React.js, Tailwindcss, Next.js, Mobx, Rest API
 
 ### ABOUT ME
 
-I'm a self-taught Javascript Developer, now working with React.js, Tailwindscc, and Mobx. I seek a Middle Frontend Developer position in an EU-based team that will utilize my professional and technical skills. My 10+ years of IT experience allows me to understand the dependency quality result of teamwork.
-
+I'm a self-taught Javascript Developer, now working with React.js, Tailwindscc, and Mobx. I seek a Middle Frontend Developer position in an EU-based team that will utilize my professional and technical skills. My 10+ years of IT experience allows me to understand the dependency quality result of teamwork.  
 I'm reliable, having-an-eye for a details front-end developer with a passion to provide high-quality UI for the end users. I have focused to create things that didn't exist before and are new to the world. Pay attention to details, with an ability to concentrate on routine tasks, and a strong drive to constantly improve my own skills.
 
 ### EXPERIENCE
 
-**Frontend developer**
-Cryptic Labs, Los Angeles - Remote
-_From Dec 2021 to Jul 2022_
-
+**Frontend developer**  
+Cryptic Labs, Los Angeles - Remote  
+_From Dec 2021 to Jul 2022_  
 I am responsible for the development of Landing pages and Web-apps on React from scratch, new layout development on Tailwindcss based on Figma design, and email HTML templates.
 
 - Rewritten MaterialUI proof of concept into module.scss production-ready application
@@ -77,7 +75,7 @@ _From Sep 2008 to Jab 2010_
 
 ### EDUCATION
 
-**Bachelor degree of Instrument engineering**
+**Bachelor degree of Instrument engineering**  
 Sevastopol State Technical University - Sevastopol, Ukraine
 
 - From September 1999 to May 2004
