@@ -3,8 +3,8 @@
 **Frontend developer**  
 React.js, Tailwindcss, Next.js, Mobx, Rest API
 
-**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | _Spain_ | **+34 647-185-406**
-**language:** | **Russian** (native) | **English** (B1-B2)
+**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Pego, Spain + work-permit | **+34 647-185-406**
+**language:** | **Russian** (native) | **English** (B2-C1)
 [Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
 
 ### ABOUT ME
