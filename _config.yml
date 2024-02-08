@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minimal
+# jekyll-theme-minimal
 # --- Required options --- #
 
 # Name of website
@@ -7,6 +8,8 @@ description: Andriy Kotko's CV
 
 # Your name to show in the footer
 author: Andriy Kotko
+user_title: Frontend Developer Contractor
+user:description: A blend of technical expertise and a keen eye for design enables me to develop digital products that are both functional and aesthetically pleasing.
 
 # --- List of links in the navigation bar --- #
 
@@ -27,8 +30,8 @@ avatar: '/assets/img/avatar-icon.png'
 round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-# title-img: /assets/img/foto.jpeg
+# then specify the following parameter /assets/img/foto.jpeg
+title-img: '/assets/img/avatar-icon.png'
 
 # --- Footer social media links --- #
 

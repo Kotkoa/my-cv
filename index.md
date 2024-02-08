@@ -3,7 +3,7 @@
 **Frontend Developer Contractor**  
 React, Tailwindcss, Next.js, Mobx, Rest API
 
-**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Pego, Spain + work-permit | **+34 647-185-406**
+**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Valencia, Spain + work-permit | **+34 647-185-406**
 **language:** | **Russian** (native) | **English** (B2-C1)
 [Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
 
@@ -22,8 +22,8 @@ professional and technical skills.
 
 ### EXPERIENCE
 
-**Frontend developer - Contractor**
-HCX, Los Angeles - Remote
+**Frontend developer - Contractor**  
+HCX, Los Angeles - Remote  
 _From September 2022 to February 2024_
 
 During the last 2-year I spent with HCX.org, a fast-growing startup, I played a pivotal
@@ -35,8 +35,8 @@ components met rigorous testing standards. Additionally, I contributed to creati
 email layouts and marketing landing pages, effectively meeting the diverse needs of
 marketing.
 
-**Frontend Developer - Contractor**
-Yara International, Singapore - Remote
+**Frontend Developer - Contractor**  
+Yara International, Singapore - Remote  
 _From August 2023 to January 2024_
 
 This position allowed me to blend my technical skills with a strong sense of design,
