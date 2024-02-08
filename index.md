@@ -5,8 +5,8 @@ React, Typescript, Tailwindcss, Material-Ui, Strybook, NX Monorepo, Vite, Next, 
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Valencia, Spain + work-permit | **+34 647-185-406**
 **language:** | **Russian** (native) | **English** (B2-C1)
-[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)  
-[Download CV](assets/CV_2024-02-07_Andriy_Kotko.pdf)
+[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
+[Download CV](assets/CV_2024-02-07_Andriy_Kotko.pdf) | --
 
 ### ABOUT ME
 
