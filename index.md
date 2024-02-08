@@ -20,6 +20,7 @@ And I looking for a Frontend Developer position in an EU-based team that will us
 professional and technical skills.
 3-year commercial experience in a Frontend position.
 5-year commercial experience in a Project Manager role.
+Total 10+ years of tech experience, with a focus on design and web technologies.
 
 ### EXPERIENCE
 
