@@ -1,7 +1,7 @@
 ## Andriy Kotko
 
-**Frontend developer**  
-React.js, Tailwindcss, Next.js, Mobx, Rest API
+**Frontend Developer Contractor**  
+React, Tailwindcss, Next.js, Mobx, Rest API
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Pego, Spain + work-permit | **+34 647-185-406**
 **language:** | **Russian** (native) | **English** (B2-C1)
@@ -9,10 +9,52 @@ React.js, Tailwindcss, Next.js, Mobx, Rest API
 
 ### ABOUT ME
 
-I'm a self-taught Javascript Developer, now working with React.js, Tailwindscc, and Mobx. I'm looking for a Middle Frontend Developer position in an EU-based team that will use my professional and technical skills.
-I'm reliable and I pay attention to details front-end developer with a passion to provide high-quality UI for the end users. I'm focused to create things that didn't exist before and are new to the world. I can concentrate on routine tasks and have a strong drive to constantly improve my skills.
+I'm Frontend Developer, working with React, TypeScript, Apollo GraphQl, Material-ui or Tailwind, and
+Jotai. I am a skilled and result-oriented front-end developer dedicated to creating and
+optimizing interactive, userfriendly, and feature-rich websites.
+I'm reliable and I pay attention to details with a passion to provide high-quality UI for
+the end users. I can concentrate on routine tasks and have a solid drive to improve
+my skills constantly.
+And I looking for a Frontend Developer position in an EU-based team that will use my
+professional and technical skills.
+3-year commercial experience in a Frontend position.
+5-year commercial experience in a Project Manager role.
 
 ### EXPERIENCE
+
+**Frontend developer - Contractor**
+HCX, Los Angeles - Remote
+_From September 2022 to February 2024_
+
+During the last 2-year I spent with HCX.org, a fast-growing startup, I played a pivotal
+role as a Front-End Developer. I focused on refining React components and
+integrating ApolloGraphQl API, and Jest for robust testing, collaborating closely with
+the backend team to develop the dynamic app. My responsibilities extended to
+building numerous forms with Material-UI and Apollo GraphQL API, ensuring all
+components met rigorous testing standards. Additionally, I contributed to creating
+email layouts and marketing landing pages, effectively meeting the diverse needs of
+marketing.
+
+**Frontend Developer - Contractor**
+Yara International, Singapore - Remote
+_From August 2023 to January 2024_
+
+This position allowed me to blend my technical skills with a strong sense of design,
+contributing to digital systems that were not only functional but also accessible and
+visually appealing.
+
+- Refactoring Design Components: I've refactored and improved existing design
+  components, making sure they were effective and up to date.
+- Creating New Components: I developed new components to expand our design
+  system's capabilities.
+- Code Review and Testing: I reviewed code and tested components across different
+  browsers to ensure quality and reliability.
+- Bug Fixing: I provided fixes for any issues, keeping our system running smoothly.
+- Working with Designers: I frequently collaborated with the design team, discussing
+  component designs.
+- Improving Documentation: For each component, we used Storybook
+  documentation. I've developed a necessary demo and playgrounds for the users to
+  get them to understand how the component works before using it.
 
 **Frontend developer**  
 Cryptic Labs, Los Angeles - Remote  
@@ -65,14 +107,15 @@ _From Sep 2008 to Jab 2010_
 - Maintainance HTML content daily
 - Processing data in a content
 
-| HARD SKILLS                                             | SOFT ASSETS      |
-| :------------------------------------------------------ | :--------------- |
-| **JavaScript**                                          |                  |
-| - React, Redux, Mobx                                    | - Accountable    |
-| - Tailwindcss, SCSS, MaterialUI, BEM, Styled Components | - Team player    |
-| - npm, yarn, git                                        | - Problem solver |
-| - ExpressJS, NextJS                                     | - Flexible       |
-| - REST API, Fetch, Axios                                | - Asperger       |
+| HARD SKILLS                                 | SOFT ASSETS      |
+| :------------------------------------------ | :--------------- |
+| **JavaScript**                              |                  |
+| - React, Typescript, Jotai, Redux, Mobx     | - Accountable    |
+| - Tailwind, Radix, Material-UI, Styled Scss | - Team player    |
+| - npm, yarn, git                            | - Problem solver |
+| - NX Monorepo, Vite, Next.JS                | - Flexible       |
+| - Apollo GraphQL, REST API, Fetch, Axios    | - ASD            |
+| - Storybook, JSON-Forms                     | - Communicative  |
 
 ### EDUCATION
 
@@ -80,3 +123,9 @@ _From Sep 2008 to Jab 2010_
 Sevastopol State Technical University - Sevastopol, Ukraine
 
 - From September 1999 to May 2004
+
+**Web Developer (student)**
+Web Learning - Internet
+Self-taught frontend developer using free open bits of knowledge.
+
+- From January 2020 till now
