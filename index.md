@@ -10,17 +10,10 @@ React, Typescript, Tailwindcss, Material-Ui, Strybook, NX Monorepo, Vite, Next, 
 
 ### ABOUT ME
 
-I'm Frontend Developer, working with React, TypeScript, Apollo GraphQl, Material-ui or Tailwind, and
-Jotai. I am a skilled and result-oriented front-end developer dedicated to creating and
-optimizing interactive, userfriendly, and feature-rich websites.
-I'm reliable and I pay attention to details with a passion to provide high-quality UI for
-the end users. I can concentrate on routine tasks and have a solid drive to improve
-my skills constantly.
-And I looking for a Frontend Developer position in an EU-based team that will use my
-professional and technical skills.
-3-year commercial experience in a Frontend position.
-5-year commercial experience in a Project Manager role.
-Total 10+ years of tech experience, with a focus on design and web technologies.
+With over 4 years of experience as a Frontend Developer Contractor, I have honed my skills in a diverse array of technologies and tools, including React, TypeScript, Apollo GraphQL, Jest, Material-UI, Styled CSS, Storybook, Yup, Jotai, and JSON-Forms. My journey in the tech industry spans over a decade, marked by a passion for crafting seamless, visually appealing, and user-centric digital products. This journey encompasses not only my current expertise in frontend development but also a 5-year tenure in a Project Manager role, bringing my total tech experience to over 10 years with a focus on design and web technologies.
+
+In my quest for new opportunities, I aim to leverage my professional and technical skills to find in a Frontend Developer position within an EU-based team.
+As I continue to evolve in my IT adventure, I am eager to master git-CI, unit testing, and delve further into the modern capabilities of front-end CSS. My career thus far has been a testament to my ability to adapt, innovate, and lead in the ever-changing landscape of web technologies.
 
 ### PORTFOLIO PROJECTS
 
