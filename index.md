@@ -17,8 +17,8 @@ As I continue to evolve in my IT adventure, I am eager to master git-CI, unit te
 
 ### PORTFOLIO PROJECTS
 
-[Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data 'https://rickandmortyapi.com/'.
-[Email template](https://kotkoa.github.io/newsletter/) - A simple responsive newsletter template designed to inform subscribers about upcoming events. The design incorporates responsive web design techniques, ensuring the newsletter looks great on both desktop and mobile screens. The template is coded in HTML with inline CSS for styling. Hosted on GitHub Pages, it's easily accessible for preview.
+[Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data 'https://rickandmortyapi.com/'.  
+[Email template](https://kotkoa.github.io/newsletter/) - A simple responsive newsletter template designed to inform subscribers about upcoming events. The design incorporates responsive web design techniques, ensuring the newsletter looks great on both desktop and mobile screens. The template is coded in HTML with inline CSS for styling. Hosted on GitHub Pages, it's easily accessible for preview.  
 [Weight Converter](https://weightconverter.vercel.app/) - Converter designed to convert weight between metric (kilograms) and imperial (pounds) units. This component is part of a larger application. The converter is built with React, TypeScript, and Tailwind CSS.
 
 ### EXPERIENCE
