@@ -1,7 +1,7 @@
 ## Andriy Kotko
 
 **Frontend Developer Contractor**  
-React, Typescript, Tailwindcss, Material-Ui, Strybook, NX Monorepo, Vite, Next, Jotai-Atom, Apollo, Rest API, npm Design Systems, and more.
+React, Typescript, Tailwindcss, Material-Ui, Stщrybook, NX Monorepo, Vite, Next, Jotai-Atom, Apollo GraphQL, Rest API, npm Design Systems, and more.
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Valencia, Spain + work-permit | **+34 647-185-406**
 **language:** | **Russian** (native) | **English** (B2-C1)
