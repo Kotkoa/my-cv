@@ -3,10 +3,10 @@
 **Frontend Developer Contractor**  
 React, Typescript, Tailwindcss, Material-Ui, Stщrybook, NX Monorepo, Vite, Next, Jotai-Atom, Apollo GraphQL, Rest API, npm Design Systems, and more.
 
-**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Valencia, Spain + work-permit | **+34 647-185-406**
+**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Pego, Alicante, Spain + work-permit | **+34 647-185-406**
 **language:** | **Russian** (native) | **English** (B2-C1)
 [Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
-[Download CV](assets/CV_2024-02-16_Andriy_Kotko.pdf) | --
+[Download CV](assets/CV_2024-02-16_Andriy_Kotko.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
 
 ### ABOUT ME
 
