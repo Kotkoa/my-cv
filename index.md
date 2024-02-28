@@ -6,7 +6,7 @@ React.js, Typescript, Tailwindcss, Material-Ui, Storybook, NX Monorepo, Vite, Ne
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Pego, Alicante, Spain + work-permit | **+34 647-185-406**
 **language:** | **Russian** (native) | **English** (B2-C1)
 [Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
-[Download CV](assets/CV_2024-02-21_Andriy_Kotko.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
+[Download CV](assets/CV_2024-02-28_Andriy_Kotko.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
 
 ### ABOUT ME
 
