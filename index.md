@@ -3,9 +3,9 @@
 **Frontend Developer Contractor**  
 React.js, Typescript, Tailwindcss, Material-Ui, Storybook, NX Monorepo, Vite, Next.js, Jotai-Atom, Apollo GraphQL, Rest API, npm Design Systems, Jest, Cypress, JSON-Forms, Yup, GitHub, Lightweight Charts TV, React Drag-N-Drop, GitLab CI.
 
-**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | Pego, Alicante, Spain + work-permit | **+34 647-185-406**
-**language:** | **Russian** (native) | **English** (B2-C1)
-[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
+**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | **+34 647-185-406**
+**language:** | **English** (B2-C1) | Español (A2) | **Russian** (native) |  
+[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa) | [Telegram](): @Kotkoa |  
 [Download CV](assets/CV_2024-02-28_Andriy_Kotko.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
 
 ### ABOUT ME
@@ -14,12 +14,6 @@ With over 4 years of experience as a Frontend Developer Contractor, I have honed
 
 In my quest for new opportunities, I aim to leverage my professional and technical skills to find in a Frontend Developer position within an EU-based team.
 As I continue to evolve in my IT adventure, I am eager to master git-CI, unit testing, and delve further into the modern capabilities of front-end CSS. My career thus far has been a testament to my ability to adapt, innovate, and lead in the ever-changing landscape of web technologies.
-
-### PORTFOLIO PROJECTS
-
-[Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data 'https://rickandmortyapi.com/'.  
-[Email template](https://kotkoa.github.io/newsletter/) - A simple responsive newsletter template designed to inform subscribers about upcoming events. The design incorporates responsive web design techniques, ensuring the newsletter looks great on both desktop and mobile screens. The template is coded in HTML with inline CSS for styling. Hosted on GitHub Pages, it's easily accessible for preview.  
-[Weight Converter](https://weightconverter.vercel.app/) - Converter designed to convert weight between metric (kilograms) and imperial (pounds) units. This component is part of a larger application. The converter is built with React, TypeScript, and Tailwind CSS.
 
 ### EXPERIENCE
 
@@ -130,3 +124,9 @@ Web Learning - Internet
 Self-taught frontend developer using free open bits of knowledge.
 
 - From January 2020 till now
+
+### PORTFOLIO PROJECTS
+
+[Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data 'https://rickandmortyapi.com/'.  
+[Email template](https://kotkoa.github.io/newsletter/) - A simple responsive newsletter template designed to inform subscribers about upcoming events. The design incorporates responsive web design techniques, ensuring the newsletter looks great on both desktop and mobile screens. The template is coded in HTML with inline CSS for styling. Hosted on GitHub Pages, it's easily accessible for preview.  
+[Weight Converter](https://weightconverter.vercel.app/) - Converter designed to convert weight between metric (kilograms) and imperial (pounds) units. This component is part of a larger application. The converter is built with React, TypeScript, and Tailwind CSS.
