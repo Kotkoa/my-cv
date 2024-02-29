@@ -1,12 +1,11 @@
 ## Andriy Kotko
 
-**Frontend Developer Contractor**  
-React.js, Typescript, Tailwindcss, Material-Ui, Storybook, NX Monorepo, Vite, Next.js, Jotai-Atom, Apollo GraphQL, Rest API, npm Design Systems, Jest, Cypress, JSON-Forms, Yup, GitHub, Lightweight Charts TV, React Drag-N-Drop, GitLab CI.
+**Frontend Developer Contractor**
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | **+34 647-185-406**
-**language:** | **English** (B2-C1) | Español (A2) | **Russian** (native) |  
-[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa) | [Telegram](): @Kotkoa |  
-[Download CV](assets/CV_2024-02-28_Andriy_Kotko.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
+**English** (B2-C1) | Español (A2) | **Russian** (native) |  
+[Linked.in](https://www.linkedin.com/in/kotkoa/) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa) |  
+[Telegram](): @Kotkoa | [Download CV](assets/CV_2024-02-28_Andriy_Kotko.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
 
 ### ABOUT ME
 
@@ -21,7 +20,7 @@ As I continue to evolve in my IT adventure, I am eager to master git-CI, unit te
 HCX, Los Angeles - Remote  
 _From September 2022 to February 2024_
 
-During the last 2-year I spent with HCX.org, a fast-growing startup, I played a pivotal
+During the 2-year I spent with HCX.org, a fast-growing startup, I played a pivotal
 role as a Front-End Developer. I focused on refining React components and
 integrating ApolloGraphQl API, and Jest for robust testing, collaborating closely with
 the backend team to develop the dynamic app. My responsibilities extended to
@@ -29,6 +28,20 @@ building numerous forms with Material-UI and Apollo GraphQL API, ensuring all
 components met rigorous testing standards. Additionally, I contributed to creating
 email layouts and marketing landing pages, effectively meeting the diverse needs of
 marketing.
+
+- Developed and implemented new features and components using React, enhancing user interface and experience.
+- Engaged in debugging and collaborative problem-solving to improve API functionality and achieve app
+  requirements.
+- Initiated and maintained continuous collaboration with backend developers for API design discussions, facilitating
+  faster feature implementation.
+- Conducted code reviews and component testing to ensure compliance with Jira tasks and project requirements.
+- pearheaded the refactoring of components to align with Figma designs, ensuring high fidelity and consistency.
+- Created multiple forms with React forms, JSONForms, and Yup-validation.
+- Provided an integrating queries and mutations by Apollo GraphQL API for efficient data handling.
+- Designed email layout templates and marketing landing pages using Next.js, meeting strategic business and
+  marketing objectives.
+- Ensured quality and reliability of components by implementing Jest unit tests and utilizing Cypress for end-to-end
+  testing.
 
 **Frontend Developer - Contractor**  
 Yara International, Singapore - Remote  
@@ -52,7 +65,7 @@ visually appealing.
   get them to understand how the component works before using it.
 
 **Frontend developer**  
-Cryptic Labs, Los Angeles - Remote  
+Cryptic Labs, RNS-Id, Los Angeles - Remote  
 _From Dec 2021 to Jul 2022_
 
 I am responsible for the development of Landing pages and Web-apps on React from scratch, new layout development on Tailwindcss based on Figma design, and email HTML templates.
@@ -102,15 +115,11 @@ _From Sep 2008 to Jab 2010_
 - Maintainance HTML content daily
 - Processing data in a content
 
-| HARD SKILLS                                 | SOFT ASSETS      |
-| :------------------------------------------ | :--------------- |
-| **JavaScript**                              |                  |
-| - React, Typescript, Jotai, Redux, Mobx     | - Accountable    |
-| - Tailwind, Radix, Material-UI, Styled Scss | - Team player    |
-| - npm, yarn, git                            | - Problem solver |
-| - NX Monorepo, Vite, Next.JS                | - Flexible       |
-| - Apollo GraphQL, REST API, Fetch, Axios    | - ASD            |
-| - Storybook, JSON-Forms                     | - Communicative  |
+**3d graphic designer**
+Svelio, Sevastopol, Ukraine
+_From May 2004 to Aug 2008_
+
+**3D Design & Rendering**: Developed interior design projects and architectural renderings using 3ds Max.
 
 ### EDUCATION
 
@@ -130,3 +139,14 @@ Self-taught frontend developer using free open bits of knowledge.
 [Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data 'https://rickandmortyapi.com/'.  
 [Email template](https://kotkoa.github.io/newsletter/) - A simple responsive newsletter template designed to inform subscribers about upcoming events. The design incorporates responsive web design techniques, ensuring the newsletter looks great on both desktop and mobile screens. The template is coded in HTML with inline CSS for styling. Hosted on GitHub Pages, it's easily accessible for preview.  
 [Weight Converter](https://weightconverter.vercel.app/) - Converter designed to convert weight between metric (kilograms) and imperial (pounds) units. This component is part of a larger application. The converter is built with React, TypeScript, and Tailwind CSS.
+
+### TECHNICAL SKILLS
+
+**Frameworks & Libraries**: React.js, Typescript, Vite, Next.js
+**State Management**: MobX, Redux, Jotai(Atom)
+**Testing Tools**: Jest, Cypress, Yup-validation
+**Design & Development Tools**: Figma, Storybook, npm Design System
+**CSS & Styling**: Styled SCSS, Tailwind CSS, Material-UI,
+**Project Management & Version Control**: Github, Gitlab, CI/CD practices
+**Code Quality Tools**: ESLint, Prettier
+**Additional Libraries**: NX Monorepo, Apollo GraphQl, React Drag-n-Drop, TV Lightweight Charts, JSON-Forms
