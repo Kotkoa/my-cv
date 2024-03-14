@@ -20,28 +20,19 @@ As I continue to evolve in my IT adventure, I am eager to master git-CI, unit te
 HCX, Los Angeles - Remote  
 _From September 2022 to February 2024_
 
-During the 2-year I spent with HCX.org, a fast-growing startup, I played a pivotal
-role as a Front-End Developer. I focused on refining React components and
-integrating ApolloGraphQl API, and Jest for robust testing, collaborating closely with
-the backend team to develop the dynamic app. My responsibilities extended to
-building numerous forms with Material-UI and Apollo GraphQL API, ensuring all
-components met rigorous testing standards. Additionally, I contributed to creating
-email layouts and marketing landing pages, effectively meeting the diverse needs of
-marketing.
+I've joined the hcx.org team as a Frontend Developer contractor to enhance the development crew. The main goal for me was maintaining an existing investment application. Our tech team consisted of 12 members - including 3 frontend developers, 3 backend developers, QA, 1 designer, and management, within a company of over 20 people. This project aimed to develop a comprehensive product aimed to connect investors, sponsors, and talents on one platform and feature a web application built with React, along with mobile versions for Android and iOS using React Native. The backend was developed using Python and Go, with Apollo GraphQL API facilitating app interactions.
 
-- Developed and implemented new features and components using React, enhancing user interface and experience.
-- Engaged in debugging and collaborative problem-solving to improve API functionality and achieve app
-  requirements.
-- Initiated and maintained continuous collaboration with backend developers for API design discussions, facilitating
-  faster feature implementation.
-- Conducted code reviews and component testing to ensure compliance with Jira tasks and project requirements.
-- pearheaded the refactoring of components to align with Figma designs, ensuring high fidelity and consistency.
-- Created multiple forms with React forms, JSONForms, and Yup-validation.
-- Provided an integrating queries and mutations by Apollo GraphQL API for efficient data handling.
-- Designed email layout templates and marketing landing pages using Next.js, meeting strategic business and
-  marketing objectives.
-- Ensured quality and reliability of components by implementing Jest unit tests and utilizing Cypress for end-to-end
-  testing.
+- Optimized the global theme of the Material-UI library by aligning main component styles with Figma, which enhanced library customization and consistency for increased component reuse.
+- Collaborated with backend and mobile teams to enhance the API and implement new features, focusing on debugging and problem-solving to refine API functionality and meet business requirements.
+- Removed blockchain library implementations, replacing cryptocurrency operations with banking transactions, and introduced functionalities for adding debit/credit cards and bank accounts.
+- Implemented user flows for diverse user types during account profile creation. This included integrating the JSON Forms and Yup libraries and Apollo queries and mutations to dynamically adjust forms via the backend, streamlining the form creation process, and enhancing user experience.
+- Enhanced user verification by implementing the Onfido system to ensure documents and user data are real, including a section for users to upload identification documents.
+- Added social features, allowing users to add each other to Favorites, create groups, and sort lists using the React DnD kit library.
+- Optimized the TV chart library and introduced GraphQL subscriptions for real-time chart updates, plus customization options for user-friendly graph display.
+- During the app growth, added the Android, and iOS apps and a marketing website, utilizing an Nx Monorepo for centralized maintenance and scale apps on a single Git repository
+- Integrated DocuSign for in-app legal document signing, for better control of all legal flow by marketing and lawers teams
+- Covered all components with Jest tests and implemented the Cypress library with CI/CD integration for covering e2e testing of main user flows.
+- Designed email layout templates and marketing landing pages using Next.js, meeting strategic business and marketing objectives.
 
 **Frontend Developer - Contractor**  
 Yara International, Singapore - Remote  
