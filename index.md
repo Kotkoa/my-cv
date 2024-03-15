@@ -9,10 +9,11 @@
 
 ### ABOUT ME
 
-With over 4 years of experience as a Frontend Developer Contractor, I have honed my skills in a diverse array of technologies and tools, including React, TypeScript, Apollo GraphQL, Jest, Material-UI, Styled CSS, Storybook, Yup, Jotai, and JSON-Forms. My journey in the tech industry spans over a decade, marked by a passion for crafting seamless, visually appealing, and user-centric digital products. This journey encompasses not only my current expertise in frontend development but also a 5-year tenure in a Project Manager role, bringing my total tech experience to over 10 years with a focus on design and web technologies.
+Frontend Developer with 4 years of experience developing web applications, focusing on the Front-end side with JS and React. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams with a strong experience in remote collaboration and effective communication.
 
-In my quest for new opportunities, I aim to leverage my professional and technical skills to find in a Frontend Developer position within an EU-based team.
-As I continue to evolve in my IT adventure, I am eager to master git-CI, unit testing, and delve further into the modern capabilities of front-end CSS. My career thus far has been a testament to my ability to adapt, innovate, and lead in the ever-changing landscape of web technologies.
+I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. I have extensive experience with fields and forms, starting from collecting user data (e.g., JSON-Forms), through validation (e.g., Yup), to submitting it to the server (REST, GraphQL API).
+
+Currently, I am seeking remote employment opportunities with teams from the USA or Europe, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements. I am eager to contribute to your project, enhancing it step by step with my experience in effective collaboration and teamwork.
 
 ### EXPERIENCE
 
@@ -20,27 +21,26 @@ As I continue to evolve in my IT adventure, I am eager to master git-CI, unit te
 HCX, Los Angeles - Remote  
 _From September 2022 to February 2024_
 
-I've joined the hcx.org team as a Frontend Developer contractor to enhance the development crew. The main goal for me was maintaining an existing investment application. Our tech team consisted of 12 members - including 3 frontend developers, 3 backend developers, QA, 1 designer, and management, within a company of over 20 people. This project aimed to develop a comprehensive product aimed to connect investors, sponsors, and talents on one platform and feature a web application built with React, along with mobile versions for Android and iOS using React Native. The backend was developed using Python and Go, with Apollo GraphQL API facilitating app interactions.
+I've joined the hcx.org team as a Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
 
-- Optimized the global theme of the Material-UI library by aligning main component styles with Figma, which enhanced library customization and consistency for increased component reuse.
-- Collaborated with backend and mobile teams to enhance the API and implement new features, focusing on debugging and problem-solving to refine API functionality and meet business requirements.
-- Removed blockchain library implementations, replacing cryptocurrency operations with banking transactions, and introduced functionalities for adding debit/credit cards and bank accounts.
-- Implemented user flows for diverse user types during account profile creation. This included integrating the JSON Forms and Yup libraries and Apollo queries and mutations to dynamically adjust forms via the backend, streamlining the form creation process, and enhancing user experience.
-- Enhanced user verification by implementing the Onfido system to ensure documents and user data are real, including a section for users to upload identification documents.
-- Added social features, allowing users to add each other to Favorites, create groups, and sort lists using the React DnD kit library.
-- Optimized the TV chart library and introduced GraphQL subscriptions for real-time chart updates, plus customization options for user-friendly graph display.
-- During the app growth, added the Android, and iOS apps and a marketing website, utilizing an Nx Monorepo for centralized maintenance and scale apps on a single Git repository
-- Integrated DocuSign for in-app legal document signing, for better control of all legal flow by marketing and lawers teams
-- Covered all components with Jest tests and implemented the Cypress library with CI/CD integration for covering e2e testing of main user flows.
 - Designed email layout templates and marketing landing pages using Next.js, meeting strategic business and marketing objectives.
+- Implemented user flows of account creation with multiple forms for various user types, regular forms, JSON Forms, Yup validation, and Apollo graphQl queries.
+- Added social features, allowing users to add each other to favorites, create groups, and sort lists using the React DnD kit library.
+- Optimizing the global theme of the Material-UI library by aligning main component styles with Figma to enhance library customization and consistency for reducing duplicate components.
+- Continuous collaboration with the backend devs to improve the API, adding new features and fixing bugs to meet business needs.
+- Removed web3 libraries, replaced blockchain operations with bank transactions, and added debit/credit card and bank account functionalities.
+- Implemented user ID verification by integrating Onfido to authenticate documents and data, to meet KYC regulations.
+- Enabled app evolution by migrating to an Nx Monorepo for streamlined maintenance and scaling within a single Git repository.
+- Implemented legal signing by DocuSign for in-app application signings, enhancing transparency and control of user documents for marketing and legal teams.
+- Covering with Jest tests and implementing the Cypress library with CI/CD integration for continuous testing of main user flows.
 
-**Frontend Developer - Contractor**  
+Technologies Used: React, React Native, Jotai, Context, Material-UI, Figma, Apollo GraphQL, Python, Go, JSON Forms, DnD kit, TV Chart Library, Nx Monorepo, Next.js, WordPress, Jest, Cypress.
+
+**Frontend Developer / UI Engineer**  
 Yara International, Singapore - Remote  
 _From August 2023 to January 2024_
 
-This position allowed me to blend my technical skills with a strong sense of design,
-contributing to digital systems that were not only functional but also accessible and
-visually appealing.
+Hired to enhance the usability and accessibility of Yara International's design system, focusing on creating new components and refactoring existing ones, utilizing designs by our team of designers on Figma. This role required technical proficiency and design skills to develop components within the company's React-based design system. The project was managed in a Git repository with NxMonorepo, consolidating web (React) and mobile (React Native) libraries for developers.
 
 - Refactoring Design Components: I've refactored and improved existing design
   components, making sure they were effective and up to date.
