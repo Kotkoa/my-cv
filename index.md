@@ -21,7 +21,7 @@ Currently, I am seeking remote employment opportunities with teams from the USA 
 HCX, Los Angeles - Remote  
 _From September 2022 to February 2024_
 
-I've joined the hcx.org team as a Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
+I've joined the [hcx.org](https://www.hcx.org/) team as a Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
 
 - Designed email layout templates and marketing landing pages using Next.js, meeting strategic business and marketing objectives.
 - Implemented user flows of account creation with multiple forms for various user types, regular forms, JSON Forms, Yup validation, and Apollo graphQl queries.
@@ -40,39 +40,38 @@ Technologies Used: React, React Native, Jotai, Context, Material-UI, Figma, Apol
 Yara International, Singapore - Remote  
 _From August 2023 to January 2024_
 
-Hired to enhance the usability and accessibility of Yara International's design system, focusing on creating new components and refactoring existing ones, utilizing designs by our team of designers on Figma. This role required technical proficiency and design skills to develop components within the company's React-based design system. The project was managed in a Git repository with NxMonorepo, consolidating web (React) and mobile (React Native) libraries for developers.
+Hired to enhance the usability and accessibility of [Yara International](https://www.yara.com)'s design system, focusing on creating new components and refactoring existing ones, utilizing designs by our team of designers on Figma. This role required technical proficiency and design skills to develop components within the company's React-based design system. The project was managed in a Git repository with NxMonorepo, consolidating web (React) and mobile (React Native) libraries for developers.
 
-- Refactoring Design Components: I've refactored and improved existing design
-  components, making sure they were effective and up to date.
-- Creating New Components: I developed new components to expand our design
-  system's capabilities.
-- Code Review and Testing: I reviewed code and tested components across different
-  browsers to ensure quality and reliability.
-- Bug Fixing: I provided fixes for any issues, keeping our system running smoothly.
-- Working with Designers: I frequently collaborated with the design team, discussing
-  component designs.
-- Improving Documentation: For each component, we used Storybook
-  documentation. I've developed a necessary demo and playgrounds for the users to
-  get them to understand how the component works before using it.
+- Enriched a React library with over 10 new components, and refactored existing ones, making sure they were effective and up to date.
+- Conducted an accessibility audit and initiated improvements, ensuring the components meet global accessibility standards.
+- Updating design system documentation to Storybook@7, optimizing infrastructure, and overhauling documentation for improved clarity and utility.
+- Developed a new token structure to streamline design-to-code workflows, facilitating easier adoption of design principles and more consistent implementation across projects.
+- Team Collaboration: Worked closely with designers to refine and implement component designs, discussing the overall look of the Storybook theme.
+- Quality Assurance: Implemented rigorous code review and testing protocols to ensure component reliability across various browsers and devices, addressing bugs promptly to maintain system integrity.
 
 **Frontend developer**  
-Cryptic Labs, RNS-Id, Los Angeles - Remote  
-_From Dec 2021 to Jul 2022_
+Root Name System (RNS), Singapore - (Remote)  
+_From Nov 2021 to Jul 2022_
 
-I am responsible for the development of Landing pages and Web-apps on React from scratch, new layout development on Tailwindcss based on Figma design, and email HTML templates.
+Hired in international tech team as a frontend developer to enhance and manage their innovative digital identity platform, [rns.id](https://rns.id/) (Root Name System). The project aimed to develop an application by issuance of digital IDs of digital residence islands of Palau. My role was on optimizing and redesigning web applications, integrating new features of Document verifications, and elevating quality through measures such as Sentry.io logging, TypeScript migration, and Jest test coverage. A key part of my responsibilities included fast-forward landing page creation to meet marketing team goals.
 
+- Spearheaded the development of React-based landing pages, web apps, and email HTML templates.
 - Transferred MaterialUI concept into styled components application
-- Migrated the web app from Redux, Redux-toolkit to MobX
+- Reduced boilerplate and code complexity by migrating the web app from Redux, Redux-toolkit to MobX
 - Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
-- Added internationalization in the web app with i18n
+- Enabled internationalization in the web app with i18n
 
-**Javascript Developer React.JS & Node.JS**  
+**Freelance Javascript Developer (React.JS & Node.JS)**  
 Freelance, Tenerife, Spain - Remote  
 _From Jan 2020 to Dec 2021_
 
+I was acting as a full-stack engineer, creating services and endpoints with Express and frontend logic with React. I was responsible for the development of a web application for a local business. The applications was built with React, Redux, and Node.js, and was designed to be responsive and accessible across various devices.
+
+- Integrated Javascript Playground for creating sandboxes with the ability to run and check code snippets without any need for deployment
+- Migrated to clean React with Context API
 - Frontend with React/Redux
 - RESTful API's Node.js and Express
-- low-level CSS framework Tailwind
+- Implemented low-level CSS framework Tailwind
 
 **Account Manager of Microstocks and Analytic**  
 Kotkoa.com - a family business  
