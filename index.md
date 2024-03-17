@@ -9,7 +9,7 @@
 
 ### ABOUT ME
 
-Frontend Developer with 4 years of experience developing web applications, focusing on the Front-end side with JS and React. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams with a strong experience in remote collaboration and effective communication.
+Frontend Developer with 4+ years of experience developing web applications, focusing on fintech, social media, the gig economy, and securities applications. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams with a strong experience in remote collaboration and effective communication.
 
 I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. I have extensive experience with fields and forms, starting from collecting user data (e.g., JSON-Forms), through validation (e.g., Yup), to submitting it to the server (REST, GraphQL API).
 
@@ -49,6 +49,16 @@ Hired to enhance the usability and accessibility of [Yara International](https:/
 - Team Collaboration: Worked closely with designers to refine and implement component designs, discussing the overall look of the Storybook theme.
 - Quality Assurance: Implemented rigorous code review and testing protocols to ensure component reliability across various browsers and devices, addressing bugs promptly to maintain system integrity.
 
+**Frontend Developer**
+Bridge The Gap, Europe - (Remote)
+_December 2022 - September 2023_
+I was recruited as a Frontend developer and UI developer to join Bridge the Gap Europe-based team of developers led by Varia Stepanova to enhance the team's capabilities. This role enabled me to combine my technical expertise with a keen sense of design, contributing significantly to our digital systems.
+
+- Adding new components to the design system and publishing npm library.
+- Successfully migrated the web application from Gatsby@3 to Gatsby@5, improving its maintainability.
+- Upgraded and modified server-side resolvers to ensure seamless functionality.
+  Technologies Used: React.js, Jest, GatsbyJS, Figma, DesignSystemLibrary, npm, Tailwind CSS, Server Side Javascript
+
 **Frontend developer**  
 Root Name System (RNS), Singapore - (Remote)  
 _From Nov 2021 to Jul 2022_
@@ -60,6 +70,7 @@ Hired in international tech team as a frontend developer to enhance and manage t
 - Reduced boilerplate and code complexity by migrating the web app from Redux, Redux-toolkit to MobX
 - Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
 - Enabled internationalization in the web app with i18n
+  Technologies Used: React, Next.js, Tailwind, Redux, Mobx, SASS, Mobx
 
 **Freelance Javascript Developer (React.JS & Node.JS)**  
 Freelance, Tenerife, Spain - Remote  
@@ -76,6 +87,8 @@ I was acting as a full-stack engineer, creating services and endpoints with Expr
 **Account Manager of Microstocks and Analytic**  
 Kotkoa.com - a family business  
 _From Jun 2012 to Jun 2020_
+I used my JavaScript capabilities to create scripts that simplified the management of over 20 stores, allowing for centralized control. I used my CMS management expertise to improve and maintain the WordPress based home page, along with optimizing SEO through strategic keyword and tag descriptions.
+Technologies Used: WordPress, HTML, CSS, SEO
 
 - Maintenance of 20 stores with content updating
 - Compiling lists of selling keywords
