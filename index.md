@@ -52,7 +52,7 @@ Hired to enhance the usability and accessibility of [Yara International](https:/
 **Frontend Developer**
 Bridge The Gap, Europe - (Remote)
 _December 2022 - September 2023_
-I was recruited as a Frontend developer and UI developer to join Bridge the Gap Europe-based team of developers led by Varia Stepanova to enhance the team's capabilities. This role enabled me to combine my technical expertise with a keen sense of design, contributing significantly to our digital systems.
+I was recruited as a Frontend developer and UI developer to join [Bridge the Gap](https://bridge-the-gap.dev) Europe-based team of developers led by Varia Stepanova to enhance the team's capabilities. This role enabled me to combine my technical expertise with a keen sense of design, contributing significantly to our digital systems.
 
 - Adding new components to the design system and publishing npm library.
 - Successfully migrated the web application from Gatsby@3 to Gatsby@5, improving its maintainability.
