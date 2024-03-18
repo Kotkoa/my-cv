@@ -5,17 +5,12 @@ theme: jekyll-theme-minimal
 # Name of website
 title: 💻 ✒️ 📄🌟
 description: Andriy Kotko's CV represents a journey of professional growth and a steadfast commitment to excellence in frontend development.
-email: kotkoa@gmail.com
-url: https://kotkoa.github.io/my-cv/
-twitter_username: kotkoa
-github_username: kotkoa
-header_pages:
-  - about.md
 
-# Your name to show in the footer
-author: Andriy Kotko
-user_title: Frontend Developer Contractor
-user:description: A blend of technical expertise and a keen eye for design enables me to develop digital products that are both functional and aesthetically pleasing.
+# User settings
+username: Lorem Ipsum
+user_description: Software Engineer at Lorem Ipsum Dolor
+user_title: Mauricio Urraco
+email: mauriurraco@gmail.com
 
 # --- List of links in the navigation bar --- #
 
@@ -37,7 +32,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter /assets/img/foto.jpeg
-title-img: '/assets/img/avatar-icon.jpg'
+img: '/assets/img/avatar-icon.jpg'
 
 # --- Footer social media links --- #
 
