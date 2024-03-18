@@ -4,7 +4,7 @@ theme: minima
 
 # Name of website
 title: 💻 ✒️ 📄🌟
-description: Andriy Kotko's CV
+description: Andriy Kotko's CV - Frontend Developer Contractor
 
 # Your name to show in the footer
 author: Andriy Kotko
@@ -31,7 +31,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter /assets/img/foto.jpeg
-title-img: '/assets/img/avatar-icon.png'
+title-img: '/assets/img/avatar-icon.jpg'
 
 # --- Footer social media links --- #
 
