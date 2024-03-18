@@ -5,16 +5,15 @@ theme: jekyll-theme-minimal
 # Name of website
 title: 💻 ✒️ 📄🌟
 description: Andriy Kotko's CV represents a journey of professional growth and a steadfast commitment to excellence in frontend development.
-show_downloads: true
 
 # --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   About Me: 'aboutme'
-#   Resources:
-#     - Beautiful Jekyll: 'https://beautifuljekyll.com'
-#     - Learn markdown: 'https://www.markdowntutorial.com/'
-#   Author's home: 'https://deanattali.com'
+navbar-links:
+  About Me: 'aboutme'
+  Resources:
+    - Beautiful Jekyll: 'https://beautifuljekyll.com'
+    - Learn markdown: 'https://www.markdowntutorial.com/'
+  Author's home: 'https://deanattali.com'
 
 # --- Logo --- #
 
