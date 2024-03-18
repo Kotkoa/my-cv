@@ -5,7 +5,13 @@ theme: jekyll-theme-minimal
 # Name of website
 title: 💻 ✒️ 📄🌟
 description: Andriy Kotko's CV represents a journey of professional growth and a steadfast commitment to excellence in frontend development.
-date: 18-03-2024
+email: kotkoa@gmail.com
+url: https://kotkoa.github.io/my-cv/
+twitter_username: kotkoa
+github_username: kotkoa
+header_pages:
+  - about.md
+
 # Your name to show in the footer
 author: Andriy Kotko
 user_title: Frontend Developer Contractor
