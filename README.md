@@ -4,7 +4,7 @@ Welcome to the repository for Andriy Kotko's professional Curriculum Vitae (CV).
 
 ## Overview
 
-This CV page is built with [Jekyll](https://jekyllrb.com/), a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Utilizing Jekyll allows for easy customization and updating as my career progresses.
+This CV page is built with [Jekyll minimal theme](https://pages-themes.github.io/minimal/), a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Utilizing Jekyll allows for easy customization and updating as my career progresses.
 
 ## Features
 
