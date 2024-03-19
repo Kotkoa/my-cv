@@ -8,11 +8,11 @@
 
 ### ABOUT ME
 
-Frontend Developer with 4+ years of experience developing web applications, focusing on fintech, social media, the gig economy, and securities applications. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams with a strong experience in remote collaboration and effective communication.
+Frontend Developer with 4 years of experience developing web applications, focusing on the Front-end side with JS and React. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams.
 
 I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. I have extensive experience with fields and forms, starting from collecting user data (e.g., JSON-Forms), through validation (e.g., Yup), to submitting it to the server (REST, GraphQL API).
 
-Currently, I am seeking remote employment opportunities with teams from the USA or Europe, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements. I am eager to contribute to your project, enhancing it step by step with my experience in effective collaboration and teamwork.
+Currently, I am seeking remote employment opportunities with teams from the USA or Europe, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements.
 
 ### EXPERIENCE
 
