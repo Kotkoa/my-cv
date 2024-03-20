@@ -32,3 +32,7 @@ To personalize your CV page, you can modify the following files:
 index.md or index.html: The main content file for the CV page. Update this with your personal and professional information.
 \_data/projects.yml: List your projects here to have them automatically populated on your site.
 vbnet
+
+## Updated
+
+2024-Mar-20
