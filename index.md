@@ -8,11 +8,11 @@
 
 ### ABOUT ME
 
-Frontend Developer with 6 years of experience developing web applications, focusing on the Front-end side with JS and React. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams.
+Frontend Developer with 6+ years of experience developing web applications, focusing on the Front-end side, and developing scalable, efficient, and high-performance applications. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams to deliver robust software solutions.
 
-I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. I have extensive experience with fields and forms, starting from collecting user data (e.g., JSON-Forms), through validation (e.g., Yup), to submitting it to the server (REST, GraphQL API).
+I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. Skilled at implementing RESTful, GraphQL APIs. I am committed to staying updated with emerging technologies and best practices in software engineering.
 
-Currently, I am seeking remote employment opportunities with teams from the USA or Europe, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements.
+Currently, I am seeking remote employment opportunities with international teams, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements.
 
 ### EXPERIENCE
 
@@ -145,7 +145,7 @@ Self-taught frontend developer using free open bits of knowledge.
 ### TECHNICAL SKILLS
 
 **Frameworks & Libraries**: React.js, Typescript, Vite, Next.js
-**State Management**: MobX, Redux, Jotai(Atom)
+**State Management**: Jotai(Atom), React-context, MobX, Redux,
 **Testing Tools**: Jest, Cypress, Yup-validation
 **Design & Development Tools**: Figma, Storybook, npm Design System
 **CSS & Styling**: Styled SCSS, Tailwind CSS, Material-UI,
