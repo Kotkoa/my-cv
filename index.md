@@ -1,6 +1,6 @@
 ## Andriy Kotko
 
-**Frontend Developer Contractor**
+**React Developer Contractor**
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | +34-647-185-406
 [Linkedin](https://www.linkedin.com/in/kotkoa) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
@@ -8,7 +8,7 @@
 
 ### ABOUT ME
 
-Frontend Developer with 4 years of experience developing web applications, focusing on the Front-end side with JS and React. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams.
+Frontend Developer with 6 years of experience developing web applications, focusing on the Front-end side with JS and React. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams.
 
 I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. I have extensive experience with fields and forms, starting from collecting user data (e.g., JSON-Forms), through validation (e.g., Yup), to submitting it to the server (REST, GraphQL API).
 
@@ -16,11 +16,11 @@ Currently, I am seeking remote employment opportunities with teams from the USA 
 
 ### EXPERIENCE
 
-**Frontend developer - Contractor**  
+**Senior Frontend developer - Contractor**  
 HCX, Los Angeles - Remote  
 _From September 2022 to February 2024_
 
-I've joined the [hcx.org](https://www.hcx.org/) team as a Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
+I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
 
 - Designed email layout templates and marketing landing pages using Next.js, meeting strategic business and marketing objectives.
 - Implemented user flows of account creation with multiple forms for various user types, regular forms, JSON Forms, Yup validation, and Apollo graphQl queries.
@@ -35,7 +35,7 @@ I've joined the [hcx.org](https://www.hcx.org/) team as a Frontend Developer con
 
 Technologies Used: React, React Native, Jotai, Context, Material-UI, Figma, Apollo GraphQL, Python, Go, JSON Forms, DnD kit, TV Chart Library, Nx Monorepo, Next.js, WordPress, Jest, Cypress.
 
-**Frontend Developer / UI Engineer**  
+**UI Engineer**  
 Yara International, Singapore - Remote  
 _From August 2023 to January 2024_
 
