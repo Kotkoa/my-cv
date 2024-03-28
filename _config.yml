@@ -10,7 +10,7 @@ description: Andriy Kotko's CV represents a journey of professional growth and a
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-logo: '/assets/img/avatar-icon.png'
+logo: '/assets/img/kotko_avatar.png'
 
 # --- Footer social media links --- #
 
