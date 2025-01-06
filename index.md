@@ -8,17 +8,17 @@
 
 ### ABOUT ME
 
-Frontend Developer with 6+ years of experience developing web applications, focusing on the Front-end side, and developing scalable, efficient, and high-performance applications. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams to deliver robust software solutions.
+Frontend Developer with 5 years of experience developing web applications, focusing on the Front-end side, and developing scalable, efficient, and high-performance applications. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams to deliver robust software solutions.
 
 I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. Skilled at implementing RESTful, GraphQL APIs. I am committed to staying updated with emerging technologies and best practices in software engineering.
 
-Currently, I am seeking remote employment opportunities with international teams, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements.
+Currently, I am seeking remote employment opportunities with international teams or local opportunities in and around Valencia, Spain. I am open to various employment forms, including full-time positions, contract work, or B2B arrangements.
 
 ### EXPERIENCE
 
 **Senior Frontend developer - Contractor**  
 HCX, Los Angeles - Remote  
-_From September 2022 to February 2024_
+_From September 2022 to December 2024_
 
 I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
 
@@ -26,11 +26,11 @@ I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Develo
 - Implemented user flows of account creation with multiple forms for various user types, regular forms, JSON Forms, Yup validation, and Apollo graphQl queries.
 - Added social features, allowing users to add each other to favorites, create groups, and sort lists using the React DnD kit library.
 - Optimizing the global theme of the Material-UI library by aligning main component styles with Figma to enhance library customization and consistency for reducing duplicate components.
-- Continuous collaboration with the backend devs to improve the API, adding new features and fixing bugs to meet business needs.
+- Continuous collaboration with the backend devs to improve the API, add new features, and fix bugs to meet business needs.
 - Removed web3 libraries, replaced blockchain operations with bank transactions, and added debit/credit card and bank account functionalities.
 - Orchestrated the integration of DocuSign for in-app application signings, streamlining the process and reducing turnaround time by 40%, ensuring compliance with stringent KYC regulations and legal requirements.
 - Enabled app evolution by migrating to an Nx Monorepo for streamlined maintenance and scaling within a single Git repository.
-- Covering with Jest tests and implementing the Cypress library with CI/CD integration for continuous testing of main user flows.
+- Covering with Jest tests and implementing the Cypress library with CI/CD integration for continuous testing of the main user flows.
 
 Technologies Used: React, React Native, Jotai, Context, Material-UI, Figma, Apollo GraphQL, Python, Go, JSON Forms, DnD kit, TV Chart Library, Nx Monorepo, Next.js, WordPress, Jest, Cypress.
 
@@ -50,7 +50,7 @@ Hired to enhance the usability and accessibility of [Yara International](https:/
 **Frontend Developer**
 Bridge The Gap, Europe - (Remote)
 _December 2022 - September 2023_
-I was recruited as a Frontend developer and UI developer to join [Bridge the Gap](https://bridge-the-gap.dev) Europe-based team of developers led by Varia Stepanova to enhance the team's capabilities. This role enabled me to combine my technical expertise with a keen sense of design, contributing significantly to our digital systems.
+I was recruited as a Frontend and UI developer to join [Bridge the Gap](https://bridge-the-gap.dev), a European-based team of developers led by Varia Stepanova, to enhance the team's capabilities. This role enabled me to combine my technical expertise with a keen sense of design, contributing significantly to our digital systems.
 
 - Adding new components to the design system and publishing npm library.
 - Successfully migrated the web application from Gatsby@3 to Gatsby@5, improving its maintainability.
