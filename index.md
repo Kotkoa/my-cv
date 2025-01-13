@@ -22,15 +22,14 @@ _From September 2022 to December 2024_
 
 I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
 
-    •	Web Application Development: Designing and maintaining scalable, responsive applications that perform seamlessly across devices.
-    •	UI/UX Optimization: Implementing Figma-aligned Material-UI themes to ensure design consistency and reduce redundancy in component libraries.
-    •	Feature Development: Building advanced user flows, such as multi-step account creation with JSON Forms, Yup validation, and Apollo GraphQL integration.
-    •	Collaboration: Partnering closely with backend teams to enhance APIs, fix bugs, and develop new features that align with business objectives.
-    •	Innovation and Modernization:
-    •	Replacing Web3 libraries with bank transaction functionalities and enabling debit/credit card and bank account features.
-    •	Integrating DocuSign to streamline in-app signing processes, reducing turnaround time by 40% while ensuring compliance with legal and KYC standards.
-    •	Migrating to an Nx Monorepo, simplifying project scaling and maintenance.
-    •	Testing and Quality Assurance: Writing maintainable, efficient code backed by Jest and Cypress for robust, automated CI/CD workflows.
+- Web Application Development: Designing and maintaining scalable, responsive applications that perform seamlessly across devices.
+- UI/UX Optimization: Implementing Figma-aligned Material-UI themes to ensure design consistency and reduce redundancy in component libraries.
+- Feature Development: Building advanced user flows, such as multi-step account creation with JSON Forms, Yup validation, and Apollo GraphQL integration.
+- Collaboration: Partnering closely with backend teams to enhance APIs, fix bugs, and develop new features that align with business objectives.
+- Replacing Web3 libraries with bank transaction functionalities and enabling debit/credit card and bank account features.
+- Integrating DocuSign to streamline in-app signing processes, reducing turnaround time by 40% while ensuring compliance with legal and KYC standards.
+- Migrating to an Nx Monorepo, simplifying project scaling and maintenance.
+- Testing and Quality Assurance: Writing maintainable, efficient code backed by Jest and Cypress for robust, automated CI/CD workflows.
 
 Technologies Used: React, Typescript, Jotai, Context, Material-UI, Figma, Apollo GraphQL, Python, Go, JSON Forms, DnD kit, TV Chart Library, Next.js, WordPress, Jest, Cypress.
 
