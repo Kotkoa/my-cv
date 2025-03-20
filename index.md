@@ -8,13 +8,13 @@
 
 ### ABOUT ME
 
-Hello! 👋 I am a **Frontend Engineer** with **5+ years of experience** specializing in **React, TypeScript, and modern UI development**. I have a strong background in building **scalable, high-performance web applications** and transforming **Figma designs into pixel-perfect UI components**. My expertise extends to **design systems, component libraries, and API integrations**, particularly in **fintech and securities platforms**.
+Hello! 👋 I am a Frontend Engineer with 5+ years of experience specializing in React, TypeScript, and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in fintech and securities platforms.
 
-I excel in **problem-solving, performance optimization, and UI/UX improvements** while ensuring **accessibility and maintainability**. Working with **GraphQL APIs**, **component-based architecture**, and modern **CI/CD workflows**, I contribute to **efficient, high-quality development**.
+I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
 
-I have a proven track record of **collaborating with international teams**, working remotely, and contributing to both **enterprise** and **startup environments**. Based in Spain, I am open to **hybrid collaboration and occasional travel**.
+I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.
 
-Beyond coding, I am passionate about **photography, sailing, and continuous learning**.
+Beyond coding, I am passionate about photography, sailing, and continuous learning.
 
 ---
 
@@ -27,13 +27,14 @@ _September 2022 – January 2025_
 
 I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
 
-- Maintained and refactored an **investment platform** built with **React, TypeScript, and GraphQL**.
-- Designed and optimized **multi-step account creation flows**, integrating **JSON Forms and Yup validation**.
-- Collaborated with backend teams to improve **GraphQL APIs**, increasing **server performance by 20%**.
-- Led the **replacement of Web3 libraries**, reducing operational costs by **30%**.
-- Integrated **DocuSign** for seamless in-app document signing, improving compliance and reducing turnaround time by **40%**.
-- Migrated to **Nx Monorepo**, simplifying **scalability and maintainability**.
-- Implemented **CI/CD pipelines with Jest and Cypress**, reducing manual QA efforts by **25%**.
+- Web Application Development: Designing and maintaining scalable, responsive applications that perform seamlessly across devices.
+- UI/UX Optimization: Implementing Figma-aligned Material-UI themes to ensure design consistency and reduce redundancy in component libraries.
+- Feature Development: Building advanced user flows, such as multi-step account creation with JSON Forms, Yup validation, and Apollo GraphQL integration.
+- Collaboration: Partnering closely with backend teams to enhance APIs, fix bugs, and develop new features that align with business objectives.
+- Replacing Web3 libraries with bank transaction functionalities and enabling debit/credit card and bank account features.
+- Integrating DocuSign to streamline in-app signing processes, reducing turnaround time by 40% while ensuring compliance with legal and KYC standards.
+- Migrating to an Nx Monorepo, simplifying project scaling and maintenance.
+- Testing and Quality Assurance: Writing maintainable, efficient code backed by Jest and Cypress for robust, automated CI/CD workflows.
 
 **Tech Stack:** React, TypeScript, Jotai, Material-UI, GraphQL, Next.js, Jest, Cypress, Figma, Python, Go
 
@@ -46,11 +47,12 @@ _August 2023 – January 2024_
 
 Hired to enhance the usability and accessibility of [Yara International](https://www.yara.com)'s design system, focusing on creating new components and refactoring existing ones, utilizing designs by our team of designers on Figma. This role required technical proficiency and design skills to develop components within the company's React-based design system. The project was managed in a Git repository with NxMonorepo, consolidating web (React) and mobile (React Native) libraries for developers.
 
-- Developed **10+ reusable UI components** for Yara’s **React-based Design System**.
-- Improved accessibility to meet **global standards**, increasing compliance by **44%**.
-- Upgraded **Storybook to v7**, optimizing documentation structure and usability.
-- Introduced a **new design token system**, increasing efficiency in **design-to-code implementation by 32%**.
-- Worked closely with **designers** to maintain a consistent **Storybook theme** and component behavior..
+- Enriched a React library with over 10 new components, and refactored existing ones, making sure they were effective and up to date.
+- Conducted an accessibility audit and initiated improvements, ensuring the components meet global accessibility standards.
+- Updated design system documentation to Storybook@7, optimizing infrastructure, and overhauling documentation for improved clarity and utility.
+- Developed a new token structure to streamline design-to-code workflows, facilitating easier adoption of design principles and more consistent implementation across projects.
+- Team Collaboration: Worked closely with designers to refine and implement component designs, discussing the overall look of the Storybook theme.
+- Quality Assurance: Implemented rigorous code review and testing protocols to ensure component reliability across various browsers and devices, addressing bugs promptly to maintain system integrity.
 
 **Tech Stack:** React, TypeScript, Storybook, Radix-UI, Figma, Design Systems
 
@@ -78,10 +80,11 @@ _November 2021 – July 2022_
 
 Hired in international tech team as a frontend developer to enhance and manage their innovative digital identity platform, [rns.id](https://rns.id/) (Root Name System). The project aimed to develop an application by issuance of digital IDs of digital residence islands of Palau. My role was on optimizing and redesigning web applications, integrating new features of Document verifications, and elevating quality through measures such as Sentry.io logging, TypeScript migration, and Jest test coverage. A key part of my responsibilities included fast-forward landing page creation to meet marketing team goals.
 
-- Developed and maintained **React-based applications** for a **digital identity platform**.
-- Migrated UI from **Material-UI to Styled Components**, reducing app load time by **40%**.
-- Refactored **Redux to MobX**, decreasing boilerplate code by **40%**.
-- Implemented **i18n localization**, expanding market reach and increasing global user engagement by **28%**.
+- Spearheaded the development of React-based landing pages, web apps, and email HTML templates.
+- Transferred MaterialUI concept into styled components application
+- Reduced boilerplate and code complexity by migrating the web app from Redux, Redux-toolkit to MobX
+- Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
+- Enabled internationalization in the web app with i18n
 
 **Tech Stack:** React.js, Next.js, Tailwind, Redux, MobX, GraphQL
 
