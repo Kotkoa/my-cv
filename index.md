@@ -1,24 +1,29 @@
 ## Andriy Kotko
 
-**Frontend (React) Developer**
+**Frontend Engineer**
 
-**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | +34-647-185-406
-[Linkedin](https://www.linkedin.com/in/kotkoa) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
-[Telegram: @Kotkoa](https://t.me/Kotkoa) | [Download CV](assets/Andriy_Kotko_CV.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
+**[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | +34-647-185-406  
+[Linkedin](https://www.linkedin.com/in/kotkoa) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)  
+[Telegram: @Kotkoa](https://t.me/Kotkoa) | [Download CV](assets/Andriy_Kotko_CV.pdf) | [Online CV](https://kotkoa.github.io/my-cv/)
 
 ### ABOUT ME
 
-Frontend Developer with 5 years of experience developing web applications, focusing on the Front-end side, and developing scalable, efficient, and high-performance applications. I've worked on projects primarily from the USA, and Singapore, participating in worldwide teams to deliver robust software solutions.
+Hello! 👋 I am a Frontend Engineer with 5+ years of experience specializing in React, TypeScript, and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in fintech and securities platforms.
 
-I enjoy creating visually accurate website layouts, and translating designers' concepts from Figma into JSX code for React applications. Skilled at implementing RESTful, GraphQL APIs. I am committed to staying updated with emerging technologies and best practices in software engineering.
+I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
 
-Currently, I am seeking remote employment opportunities with international teams or local opportunities in and around Valencia, Spain. I am open to various employment forms, including full-time positions, contract work, or B2B arrangements.
+I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.
+
+Beyond coding, I am passionate about photography, sailing, and continuous learning.
+
+---
 
 ### EXPERIENCE
 
-**Senior Frontend developer - Contractor**  
-HCX, Los Angeles - Remote  
-_From September 2022 to December 2024_
+#### **Frontend Engineer - Contractor**
+
+**HCX, Los Angeles (Remote)**  
+_September 2022 – January 2025_
 
 I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
 
@@ -31,34 +36,47 @@ I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Develo
 - Migrating to an Nx Monorepo, simplifying project scaling and maintenance.
 - Testing and Quality Assurance: Writing maintainable, efficient code backed by Jest and Cypress for robust, automated CI/CD workflows.
 
-Technologies Used: React, Typescript, Jotai, Context, Material-UI, Figma, Apollo GraphQL, Python, Go, JSON Forms, DnD kit, TV Chart Library, Next.js, WordPress, Jest, Cypress.
+**Tech Stack:** React, TypeScript, Jotai, Material-UI, GraphQL, Next.js, Jest, Cypress, Figma, Python, Go
 
-**UI Engineer**  
-Yara International, Singapore - Remote  
-_From August 2023 to January 2024_
+---
+
+#### **UI Engineer**
+
+**Yara International, Singapore (Remote)**  
+_August 2023 – January 2024_
 
 Hired to enhance the usability and accessibility of [Yara International](https://www.yara.com)'s design system, focusing on creating new components and refactoring existing ones, utilizing designs by our team of designers on Figma. This role required technical proficiency and design skills to develop components within the company's React-based design system. The project was managed in a Git repository with NxMonorepo, consolidating web (React) and mobile (React Native) libraries for developers.
 
 - Enriched a React library with over 10 new components, and refactored existing ones, making sure they were effective and up to date.
 - Conducted an accessibility audit and initiated improvements, ensuring the components meet global accessibility standards.
-- Updating design system documentation to Storybook@7, optimizing infrastructure, and overhauling documentation for improved clarity and utility.
+- Updated design system documentation to Storybook@7, optimizing infrastructure, and overhauling documentation for improved clarity and utility.
 - Developed a new token structure to streamline design-to-code workflows, facilitating easier adoption of design principles and more consistent implementation across projects.
 - Team Collaboration: Worked closely with designers to refine and implement component designs, discussing the overall look of the Storybook theme.
 - Quality Assurance: Implemented rigorous code review and testing protocols to ensure component reliability across various browsers and devices, addressing bugs promptly to maintain system integrity.
 
-**Frontend Developer**
-Bridge The Gap, Europe - (Remote)
-_December 2022 - September 2023_
+**Tech Stack:** React, TypeScript, Storybook, Radix-UI, Figma, Design Systems
+
+---
+
+#### **Frontend Engineer**
+
+**Bridge The Gap, Europe (Remote)**  
+_December 2022 – September 2023_
+
 I was recruited as a Frontend and UI developer to join [Bridge the Gap](https://bridge-the-gap.dev), a European-based team of developers led by Varia Stepanova, to enhance the team's capabilities. This role enabled me to combine my technical expertise with a keen sense of design, contributing significantly to our digital systems.
 
 - Adding new components to the design system and publishing npm library.
 - Successfully migrated the web application from Gatsby@3 to Gatsby@5, improving its maintainability.
 - Upgraded and modified server-side resolvers to ensure seamless functionality.
-  Technologies Used: React.js, Jest, GatsbyJS, Figma, DesignSystemLibrary, npm, Tailwind CSS, Server Side Javascript
 
-**Frontend developer**  
-Root Name System (RNS), Singapore - (Remote)  
-_From Nov 2021 to Jul 2022_
+**Tech Stack:** React.js, GatsbyJS, Jest, Tailwind CSS, Figma, Design Systems
+
+---
+
+#### **Frontend Developer**
+
+**Root Name System (RNS), Singapore (Remote)**  
+_November 2021 – July 2022_
 
 Hired in international tech team as a frontend developer to enhance and manage their innovative digital identity platform, [rns.id](https://rns.id/) (Root Name System). The project aimed to develop an application by issuance of digital IDs of digital residence islands of Palau. My role was on optimizing and redesigning web applications, integrating new features of Document verifications, and elevating quality through measures such as Sentry.io logging, TypeScript migration, and Jest test coverage. A key part of my responsibilities included fast-forward landing page creation to meet marketing team goals.
 
@@ -67,11 +85,15 @@ Hired in international tech team as a frontend developer to enhance and manage t
 - Reduced boilerplate and code complexity by migrating the web app from Redux, Redux-toolkit to MobX
 - Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
 - Enabled internationalization in the web app with i18n
-  Technologies Used: React, Next.js, Tailwind, Redux, Mobx, SASS, Mobx
 
-**Freelance Javascript Developer (React.JS & Node.JS)**  
+**Tech Stack:** React.js, Next.js, Tailwind, Redux, MobX, GraphQL
+
+---
+
+#### **Freelance Javascript Developer (React.JS & Node.JS)**
+
 Freelance, Tenerife, Spain - Remote  
-_From Jan 2020 to Dec 2021_
+_January 2020 to December 2021_
 
 I was acting as a full-stack engineer, creating services and endpoints with Express and frontend logic with React. I was responsible for the development of a web application for a local business. The applications was built with React, Redux, and Node.js, and was designed to be responsive and accessible across various devices.
 
@@ -121,34 +143,35 @@ _From May 2004 to Aug 2008_
 
 **3D Design & Rendering**: Developed interior design projects and architectural renderings using 3ds Max.
 
+---
+
 ### EDUCATION
 
-**Bachelor's degree in Instrument engineering**  
-Sevastopol State Technical University - Sevastopol, Ukraine
+#### **Bachelor’s Degree in Instrument Engineering**
 
-- From September 1999 to May 2004
+**Sevastopol State Technical University, Ukraine**  
+_1999 – 2004_
 
-**Web Developer (student)**
-Web Learning - Internet
-Self-taught frontend developer using free open bits of knowledge.
-
-- From January 2020 till now
-
-### PORTFOLIO PROJECTS
-
-[bitcoin-wallet](https://github.com/kotkoa/bitcoin-wallet/) - Bitcoin Testnet Wallet: A minimalist web application built using React.js, Next.js, and Redux Toolkit. This app provides functionalities for users to create a Bitcoin address, view a list of transactions, and send a specified amount of bitcoins to a designated address.
-[simple-auth-app](https://github.com/Kotkoa/simple-auth-app) - My portfolio of projects showcasing web applications with secure authentication. It features built-in support for Google and Microsoft OAuth authentication alongside a standard username and password login system.
-[Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data '<https://rickandmortyapi.com/>'.  
-[Email template](https://kotkoa.github.io/newsletter/) - A simple responsive newsletter template designed to inform subscribers about upcoming events. The design incorporates responsive web design techniques, ensuring the newsletter looks great on both desktop and mobile screens. The template is coded in HTML with inline CSS for styling. Hosted on GitHub Pages, it's easily accessible for preview.  
-[Weight Converter](https://weightconverter.vercel.app/) - Converter designed to convert weight between metric (kilograms) and imperial (pounds) units. This component is part of a larger application. The converter is built with React, TypeScript, and Tailwind CSS.
+---
 
 ### TECHNICAL SKILLS
 
-**Frameworks & Libraries**: React.js, Typescript, Vite, Next.js
-**State Management**: Jotai(Atom), React-context, MobX, Redux,
-**Testing Tools**: Jest, Cypress, Yup-validation
-**Design & Development Tools**: Figma, Storybook, npm Design System
-**CSS & Styling**: Styled SCSS, Tailwind CSS, Material-UI,
-**Project Management & Version Control**: Github, Gitlab, CI/CD practices
-**Code Quality Tools**: ESLint, Prettier
-**Additional Libraries**: NX Monorepo, Apollo GraphQl, React Drag-n-Drop, TV Lightweight Charts, JSON-Forms
+- **Frontend:** React.js, TypeScript, Next.js, Vite
+- **State Management:** Jotai, React Context, MobX, Redux
+- **Design Systems:** Storybook, Radix-UI, Material-UI, Tailwind CSS
+- **Testing:** Jest, Cypress, Yup-validation
+- **APIs & Data Handling:** GraphQL, Apollo Client, REST APIs
+- **CI/CD & Version Control:** GitHub, GitLab, CI/CD Pipelines
+- **Project Management:** Agile, Scrum, Jira
+
+---
+
+### PORTFOLIO
+
+- **[Bitcoin Testnet Wallet](https://github.com/kotkoa/bitcoin-wallet/)** – Minimalist Bitcoin wallet using React.js, Next.js, and Redux Toolkit.
+- **[Simple Auth App](https://github.com/Kotkoa/simple-auth-app)** – Secure authentication app with OAuth integration (Google & Microsoft).
+- **[Rick and Morty Explorer](https://rickandmorty-2024.vercel.app/)** – Character browser using **GraphQL API**, React, and TypeScript.
+- **[Email Newsletter Template](https://kotkoa.github.io/newsletter/)** – Responsive email template for event notifications.
+- **[Weight Converter](https://weightconverter.vercel.app/)** – Web app to convert weight between **metric and imperial units**.
+
+---
