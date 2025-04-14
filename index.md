@@ -8,7 +8,7 @@
 
 ### ABOUT ME
 
-Hello! 👋 I am a Fullstack Engineer with 5+ years of experience specializing in React, TypeScript, and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in fintech and securities platforms.
+Hello! 👋 I am a Fullstack Engineer with 5 years of experience specializing in React, TypeScript, and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in fintech and securities platforms.
 
 I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
 
@@ -36,7 +36,7 @@ I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Develo
 - Migrating to an Nx Monorepo, simplifying project scaling and maintenance.
 - Testing and Quality Assurance: Writing maintainable, efficient code backed by Jest and Cypress for robust, automated CI/CD workflows.
 
-**Tech Stack:** React, TypeScript, Jotai, Material-UI, GraphQL, Next.js, Jest, Cypress, Figma, Python, Go
+**Tech Stack:** React, TypeScript, Jotai, Material-UI, GraphQL, Next.js, Jest, Cypress
 
 ---
 
