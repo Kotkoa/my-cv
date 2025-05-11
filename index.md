@@ -12,9 +12,12 @@ Hello! 👋 I am a Fullstack Engineer with 5 years of experience specializing in
 
 I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
 
-I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.
+I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.  
+Currently, I am actively learning Spanish (A2), aiming to reach B2 by the end of 2025.
 
 Beyond coding, I am passionate about photography, sailing, and continuous learning.
+
+//
 
 ---
 
@@ -151,6 +154,15 @@ _From May 2004 to Aug 2008_
 
 **Sevastopol State Technical University, Ukraine**  
 _1999 – 2004_
+
+---
+
+### LANGUAGES
+
+- **Russian:** Native
+- **Ukrainian:** Native
+- **English:** Upper-Intermediate (B2)
+- **Spanish:** A2 (actively learning, planning to reach B2 by the end of 2025)
 
 ---
 
