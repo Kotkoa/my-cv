@@ -21,6 +21,18 @@ Beyond coding, I am passionate about photography, sailing, and continuous learni
 
 ### EXPERIENCE
 
+#### **FullStack Engineer - Contractor**
+
+**Freelance, Spain (Remote)**
+_January 2025 – Present_
+I am currently working as a FullStack Engineer contractor, focusing on enhancing my skills in TypeScript, React, and Node.js. My current projects involve building scalable web applications and contributing to open-source initiatives.
+
+- Developing and maintaining web applications using React, TypeScript, and Node.js.
+- Collaborating with clients to understand requirements and deliver high-quality solutions.
+- Contributing to open-source projects to enhance my skills and give back to the community.
+
+---
+
 #### **Frontend Engineer - Contractor**
 
 **HCX, Los Angeles (Remote)**  
