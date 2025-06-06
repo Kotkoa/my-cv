@@ -21,15 +21,38 @@ Beyond coding, I am passionate about photography, sailing, and continuous learni
 
 ### EXPERIENCE
 
-#### **FullStack Engineer - Contractor**
+#### **Frontend Engineer - Contractor**
 
-**Freelance, Spain (Remote)**
-_January 2025 – Present_
-I am currently working as a FullStack Engineer contractor, focusing on enhancing my skills in TypeScript, React, and Node.js. My current projects involve building scalable web applications and contributing to open-source initiatives.
+**CloneForce, Newport Beach, California, United States (Remote)**  
+_November 2024 – Present_
 
-- Developing and maintaining web applications using React, TypeScript, and Node.js.
-- Collaborating with clients to understand requirements and deliver high-quality solutions.
-- Contributing to open-source projects to enhance my skills and give back to the community.
+Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend Engineer to develop an AI-powered personal assistant platform. Led frontend development of a dynamic web app focused on intelligent user interactions and automation. Collaborated with cross-functional teams and implemented modern UI patterns using Next.js, TypeScript, Jotai, Radix UI, and GraphQL.
+
+**Tech Stack:** Next.js, TypeScript, Jotai, Radix UI, GraphQL
+
+---
+
+#### **FullStack Engineer**
+
+**On the Beach, Manchester, England, United Kingdom (Remote)**  
+_April 2025 – Present_
+
+Contracted as a FullStack Engineer in a UK-based team to modernize and support the On the Beach holiday platform [onthebeach.co.uk](https://www.onthebeach.co.uk/). The project involves working with a large legacy codebase, focusing on refactoring and updating components to improve maintainability and performance.
+
+I collaborate with UK colleagues to deliver new features and experiments using JavaScript, TypeScript, GraphQL, and Next.js. Feature flags are used for controlled rollouts and quick reversions. My work spans front-end improvements, API integrations, and user experience enhancements, contributing flexibly across different areas as needed.
+
+**Tech Stack:** JavaScript, TypeScript, GraphQL, Next.js
+
+---
+
+#### **Fullstack Engineer - Contractor**
+
+**Netguru | B Corp™, Poznan, Poland (Remote)**  
+_April 2025 – Present_
+
+Worked as a contract Fullstack Engineer through Netguru [netguru.com](https://www.netguru.com/), contributing to international client projects using Next.js, TypeScript, JavaScript, and Apollo GraphQL.
+
+**Tech Stack:** Next.js, JavaScript, Apollo GraphQL, TypeScript
 
 ---
 
