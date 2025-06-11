@@ -40,7 +40,7 @@ _April 2025 – Present_
 FullStack Engineer in a UK-based team to modernize and support the On the Beach holiday platform [onthebeach.co.uk](https://www.onthebeach.co.uk/). The project involves working with a large legacy codebase, focusing on refactoring and updating components to improve maintainability and performance.
 I collaborate with UK colleagues to deliver new features and experiments using JavaScript, TypeScript, GraphQL, and Next.js. Feature flags are used for controlled rollouts and quick reversions. My work spans front-end improvements, API integrations, and user experience enhancements, contributing flexibly across different areas as needed.
 
-**Tech Stack:** JavaScript, TypeScript, GraphQL, Next.js
+**Tech Stack:** JavaScript, TypeScript, GraphQL, Next.js, Mobx
 
 ---
 
