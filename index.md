@@ -28,7 +28,7 @@ _November 2024 – Present_
 
 Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend Engineer to develop an AI-powered personal assistant platform. Led frontend development of a dynamic web app focused on intelligent user interactions and automation. Collaborated with cross-functional teams and implemented modern UI and programming patterns.
 
-**Tech Stack:** Next.js, TypeScript, Jotai, Radix-ui, GraphQL
+**Tech Stack:** Next.js, TypeScript, Jotai, Tailwind, GraphQL
 
 ---
 
