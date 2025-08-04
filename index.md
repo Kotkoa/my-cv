@@ -219,3 +219,9 @@ _1999 – 2004_
 - **[Weight Converter](https://weightconverter.vercel.app/)** – Web app to convert weight between **metric and imperial units**.
 
 ---
+
+### Check-in & Version Log
+
+This section is for a simple check-in—just updating the version to mark my presence and keep the GitHub contribution graph green.
+
+**Current version:** v1.01.1
