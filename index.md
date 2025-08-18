@@ -224,4 +224,4 @@ _1999 – 2004_
 
 This section is for a simple check-in—just updating the version to mark my presence and keep the GitHub contribution graph green.
 
-**Current version:** v1.01.7
+**Current version:** v1.01.8
