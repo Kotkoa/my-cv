@@ -35,10 +35,18 @@ Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend Engine
 #### **FullStack Engineer**
 
 **On the Beach, Manchester, England, United Kingdom (Remote)**  
-_April 2025 – Present_
+_April 2025 – October 2025_
 
-FullStack Engineer in a UK-based team to modernize and support the On the Beach holiday platform [onthebeach.co.uk](https://www.onthebeach.co.uk/). The project involves working with a large legacy codebase, focusing on refactoring and updating components to improve maintainability and performance.
-I collaborate with UK colleagues to deliver new features and experiments using JavaScript, TypeScript, GraphQL, and Next.js. Feature flags are used for controlled rollouts and quick reversions. My work spans front-end improvements, API integrations, and user experience enhancements, contributing flexibly across different areas as needed.
+FullStack Engineer in a UK-based team to modernize and support the On the Beach holiday platform [onthebeach.co.uk](https://www.onthebeach.co.uk/). The role involves working with a large legacy codebase, focusing on refactoring, component modernization, and improving maintainability, performance, and developer experience.
+
+I collaborate with UK colleagues to deliver new features and experiments using JavaScript, TypeScript, GraphQL, React 19, and Next.js 15, employing feature flags for controlled rollouts and quick reversions. My work spans frontend optimization, API integrations, and user experience enhancements, contributing flexibly across multiple areas of the platform.
+
+As part of the Shop XP team, I’ve led and contributed to several key initiatives, including:
+- Upgrading the Booking Flow technology stack to the latest React 19 and Next.js 15, improving performance, security, and engineering efficiency.
+- Migrating from Apollo Client 3 to Apollo Client 4, enhancing data management, caching performance, and overall stability.
+- Implementing new UI toggle features, refining default search logic, and expanding tracking coverage for analytics and experimentation.
+
+These improvements have resulted in faster page loads, smoother navigation between search and deal detail pages, and a more reliable, scalable foundation for future development.
 
 **Tech Stack:** JavaScript, TypeScript, GraphQL, Next.js, Mobx
 
@@ -47,7 +55,7 @@ I collaborate with UK colleagues to deliver new features and experiments using J
 #### **Fullstack Engineer - Contractor**
 
 **Netguru | B Corp™, Poznan, Poland (Remote)**  
-_April 2025 – Present_
+_April 2025 – October 2025_
 
 Worked as a contract Fullstack Engineer through Netguru [netguru.com](https://www.netguru.com/), contributing to international client projects using Next.js, TypeScript, JavaScript, and Apollo GraphQL.
 
