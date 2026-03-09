@@ -8,14 +8,12 @@
 
 ### ABOUT ME
 
-Hello! 👋 I am a Frontend Engineer with 5 years of experience specializing in React, TypeScript, GraphQl Apollo Client and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in Ai, fintech and securities platforms.
+Hello! 👋 I am a Frontend Engineer with 6 years of experience specializing in React, TypeScript, GraphQl Apollo Client and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in Ai, fintech and securities platforms.
 
 I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
 
 I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.  
-Currently, I am actively learning Spanish, aiming to reach B2 by the end of 2025.
-
-Beyond coding, I am passionate about photography, sailing, and continuous learning. I’m currently learning Spanish (A2), aiming to reach B2 by the end of 2025.
+Beyond coding, I am passionate about photography, sailing, and continuous learning. I’m currently learning Spanish (A2), aiming to reach B2 by the end of 2026.
 
 ---
 
@@ -138,7 +136,7 @@ Hired in international tech team as a frontend developer to enhance and manage t
 **Freelance, Tenerife, Spain (Remote)**  
 _January 2020 – December 2021_
 
-I was acting as a full-stack engineer, creating services and endpoints with Express and frontend logic with React. I was responsible for the development of a web application for a local business. The applications was built with React, Redux, and Node.js, and was designed to be responsive and accessible across various devices.
+I was acting as a full-stack engineer, creating services and endpoints with Express and frontend logic with React. I was responsible for the development of a web application for a local business. The application was built with React, Redux, and Node.js, and was designed to be responsive and accessible across various devices.
 
 - Integrated Javascript Playground for creating sandboxes with the ability to run and check code snippets without any need for deployment
 - Migrated to clean React with Context API
@@ -173,11 +171,11 @@ _From Jan 2009 to Aug 2010_
 
 **Html-CSS Developer**  
 AllDevelop.com, Sevastopol, Ukraine  
-_From Sep 2008 to Jab 2010_
+_From Sep 2008 to Jan 2010_
 
 - Creating HTML markup templates
 - Updating and modifying existing CSS code
-- Maintainance HTML content daily
+- Maintenance HTML content daily
 - Processing data in a content
 
 **3d graphic designer**
@@ -202,7 +200,7 @@ _1999 – 2004_
 - **Russian:** Native
 - **Ukrainian:** Native
 - **English:** Upper-Intermediate (B2)
-- **Spanish:** A2 (actively learning, planning to reach B2 by the end of 2025)
+- **Spanish:** A2 (actively learning, planning to reach B2 by the end of 2026)
 
 ---
 

@@ -37,8 +37,9 @@ jobs:
       - name: Check for broken links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress ./_site/**/*.html
+          args: --no-progress '_site/**/*.html'
           fail: false
+          failIfEmpty: false
 
       - name: Upload artifact
         if: github.ref == 'refs/heads/gh-pages'
