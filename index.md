@@ -12,7 +12,7 @@ layout: default
 
 ### ABOUT ME
 
-Hello! 👋 I am a Frontend Engineer with over five years of experience specializing in Next.js, TypeScript, Apollo Client and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in Ai, fintech and securities platforms.
+Hello! 👋 I am a Frontend Engineer with over five years of experience specializing in Next.js, TypeScript, Apollo Client and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in fintech and securities platforms.
 
 I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
 
