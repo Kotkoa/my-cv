@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Andriy Kotko
 
 **Fullstack Engineer**
