@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Andriy Kotko
+## Andrey Kotko
 
-**Fullstack Engineer**
+**Frontend Engineer**
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | +34-647-185-406  
 [Linkedin](https://www.linkedin.com/in/kotkoa) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)  
@@ -12,7 +12,7 @@ layout: default
 
 ### ABOUT ME
 
-Hello! 👋 I am a Frontend Engineer with 6 years of experience specializing in React, TypeScript, GraphQl Apollo Client and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in Ai, fintech and securities platforms.
+Hello! 👋 I am a Frontend Engineer with over five years of experience specializing in Next.js, TypeScript, Apollo Client and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in Ai, fintech and securities platforms.
 
 I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
 
@@ -196,6 +196,12 @@ _From May 2004 to Aug 2008_
 
 **Sevastopol State Technical University, Ukraine**  
 _1999 – 2004_
+
+---
+
+### LICENSES & CERTIFICATIONS
+
+- **Claude Code: Professional AI Setup** – Frontend Masters (2025)
 
 ---
 
