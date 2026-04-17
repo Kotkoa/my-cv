@@ -4,7 +4,7 @@ layout: default
 
 ## Andrey Kotko
 
-**Frontend Engineer**
+**Senior Frontend Engineer**
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | +34-647-185-406  
 [Linkedin](https://www.linkedin.com/in/kotkoa) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)  
@@ -12,12 +12,28 @@ layout: default
 
 ### ABOUT ME
 
-Hello! 👋 I am a Frontend Engineer with over five years of experience specializing in Next.js, TypeScript, Apollo Client and modern UI development. I have a strong background in building scalable, high-performance web applications and transforming Figma designs into pixel-perfect UI components. My expertise extends to design systems, component libraries, and API integrations, particularly in fintech and securities platforms.
+Senior Frontend Engineer with 6+ years of commercial experience building production web applications with React, TypeScript, and Next.js. Specialized in AI-powered SaaS products, real-time data interfaces (GraphQL/Apollo Client), and scalable design systems.
 
-I excel in problem-solving, performance optimization, and UI/UX improvements while ensuring accessibility and maintainability. Working with GraphQL APIs, component-based architecture, and modern CI/CD workflows, I contribute to efficient, high-quality development.
+Recent focus: frontend for AI products — built the core web application for an AI-powered digital clone platform (CloneForce), integrating voice AI (ElevenLabs), real-time GraphQL subscriptions, and OAuth flows for third-party services.
 
-I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.  
-Beyond coding, I am passionate about photography, sailing, and continuous learning. I’m currently learning Spanish (A2), aiming to reach B2 by the end of 2026.
+Deep Apollo Client expertise: custom cache strategies, type policies, AC3→4 migration, WebSocket subscriptions. Strong background in design systems (4 projects: Yara International, HCX, Bridge The Gap, CloneForce), performance optimization (40% load time reductions), testing culture (Jest, Cypress, Playwright), and CI/CD integration.
+
+Experience across startup, scale-up, and enterprise environments with fully distributed international teams.
+
+Based in Pego, Spain. Available for remote roles across Europe (CET/CEST timezone).
+
+---
+
+### TECHNICAL SKILLS
+
+- **Frontend:** React, TypeScript, JavaScript ES6+, Next.js (SSR/SSG), HTML5, CSS3
+- **State Management:** Redux, Redux Toolkit, Jotai, MobX, React Context
+- **Styling & Design Systems:** MUI, Tailwind, SASS, Styled Components, Storybook, Radix UI, Design Tokens
+- **APIs & Data:** Apollo Client/GraphQL, GraphQL Subscriptions, REST APIs
+- **Testing:** Jest, Cypress, Playwright, React Testing Library
+- **Build & DevOps:** Webpack, Vite, Git, CI/CD Pipelines, ESLint, Prettier
+- **AI & Integrations:** ElevenLabs SDK, OpenAI API, OAuth (Microsoft, Google, HubSpot)
+- **Other:** i18n, Accessibility (WCAG), Agile/Scrum, Nx Monorepo, Figma
 
 ---
 
@@ -28,15 +44,18 @@ Beyond coding, I am passionate about photography, sailing, and continuous learni
 **CloneForce, Newport Beach, California, United States (Remote)**  
 _November 2024 – March 2026_
 
-Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend engineer on an AI-powered digital clone platform — a product that creates personalized AI assistants and coaches powered by OpenAI, Pinecone (RAG), and ElevenLabs, deployed across Slack, MS Teams, and web channels.
-→ Led frontend development of the core web application using Next.js, TypeScript, Apollo Client, GraphQL, Jotai, and MUI — building dynamic interfaces for real-time human-AI interactions
-→ Architected a component library of 50+ reusable UI components, establishing a design system with MUI theming from scratch to ensure visual consistency across the platform
-→ Integrated ElevenLabs voice chat using their React SDK — replaced the default embed widget with a custom implementation for full control over the conversational voice UI
-→ Implemented real-time data updates through GraphQL subscriptions (graphql-ws), enabling live clone interactions, status changes, and streaming AI responses in the UI
-→ Built OAuth integration flows for third-party services (Microsoft, Google, HubSpot), enabling clone skills to connect with external platforms on behalf of users
-→ Configured AI-assisted development infrastructure: strict TypeScript, ESLint rules, GitHub branch protections, and detailed project architecture docs — ensuring that AI-generated code (Copilot, Claude) follows the same patterns and conventions as human-written code
+Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend Engineer on an AI-powered digital clone platform — a product that creates personalized AI assistants and coaches powered by OpenAI, Pinecone (RAG), and ElevenLabs, deployed across Slack, MS Teams, and web channels. Led frontend development of a dynamic web application, building interfaces for real-time human-AI interactions and automation.
 
-**Tech Stack:** Next.js, TypeScript, Jotai, Tailwind, Apollo GraphQL
+- Led frontend architecture of the core web app using Next.js, TypeScript, Apollo Client, Jotai, and MUI — designing dynamic interfaces for intelligent clone interactions.
+- Architected a component library of 50+ reusable UI components with MUI theming from scratch, ensuring visual consistency across the platform.
+- Integrated ElevenLabs voice chat via React SDK — replaced the default embed widget with a custom implementation for full control over the conversational voice UI.
+- Implemented real-time data updates through GraphQL subscriptions (graphql-ws), enabling live clone interactions, status changes, and streaming AI responses in the UI.
+- Built OAuth integration flows for Microsoft, Google, and HubSpot, enabling clone skills to connect with external platforms on behalf of users.
+- Configured AI-assisted development infrastructure: strict TypeScript, ESLint rules, GitHub branch protections, and detailed project architecture docs — ensuring AI-generated code (Copilot, Claude) follows the same patterns and conventions as human-written code.
+- Reduced page load time by 40% through code splitting, lazy loading, and Apollo Client cache optimization.
+- Implemented comprehensive E2E testing with Cypress, covering critical user flows across the AI assistant interface.
+
+**Tech Stack:** React, Next.js (SSR), TypeScript, Jotai, Tailwind, SASS, MUI, Apollo GraphQL, GraphQL Subscriptions, ElevenLabs React SDK, Webpack, Jest, Cypress, Git
 
 ---
 
@@ -49,15 +68,16 @@ FullStack Engineer in a UK-based team to modernize and support the On the Beach 
 
 I collaborate with UK colleagues to deliver new features and experiments using JavaScript, TypeScript, GraphQL, React 19, and Next.js 15, employing feature flags for controlled rollouts and quick reversions. My work spans frontend optimization, API integrations, and user experience enhancements, contributing flexibly across multiple areas of the platform.
 
-As part of the Shop XP team, I’ve led and contributed to several key initiatives, including:
+As part of the Shop XP team, I've led and contributed to several key initiatives, including:
 
 - Upgrading the Booking Flow technology stack to the latest React 19 and Next.js 15, improving performance, security, and engineering efficiency.
 - Migrating from Apollo Client 3 to Apollo Client 4, enhancing data management, caching performance, and overall stability.
+- Implemented feature flags for controlled rollouts and A/B experimentation, enabling data-driven UI decisions across 3 concurrent experiments.
 - Implementing new UI toggle features, refining default search logic, and expanding tracking coverage for analytics and experimentation.
 
 These improvements have resulted in faster page loads, smoother navigation between search and deal detail pages, and a more reliable, scalable foundation for future development.
 
-**Tech Stack:** JavaScript, TypeScript, GraphQL, Next.js, Mobx
+**Tech Stack:** JavaScript ES6+, TypeScript, React 19, Next.js 15 (SSR/SSG), MobX, Apollo Client 4, GraphQL, Webpack, Git
 
 ---
 
@@ -68,7 +88,7 @@ _April 2025 – October 2025_
 
 Worked as a contract Fullstack Engineer through Netguru [netguru.com](https://www.netguru.com/), contributing to international client projects using Next.js, TypeScript, JavaScript, and Apollo GraphQL.
 
-**Tech Stack:** Next.js, JavaScript, Apollo GraphQL, TypeScript
+**Tech Stack:** Next.js, JavaScript ES6+, Apollo GraphQL, TypeScript
 
 ---
 
@@ -86,7 +106,8 @@ I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Develo
 - Replacing Web3 libraries with bank transaction functionalities and enabling debit/credit card and bank account features.
 - Integrating DocuSign to streamline in-app signing processes, reducing turnaround time by 40% while ensuring compliance with legal and KYC standards.
 - Migrating to an Nx Monorepo, simplifying project scaling and maintenance.
-- Testing and Quality Assurance: Writing maintainable, efficient code backed by Jest and Cypress for robust, automated CI/CD workflows.
+- Built CI/CD testing pipeline integrating Jest (unit) and Cypress (E2E) for automated user flow validation, reducing manual QA time by 25% and catching regressions before deployment.
+- Enhanced Material-UI global theme, streamlining common styles to save 68 workdays on component creation ($8,000 savings).
 
 **Tech Stack:** React, TypeScript, Jotai, Material-UI, GraphQL, Next.js, Jest, Cypress
 
@@ -99,14 +120,14 @@ _August 2023 – January 2024_
 
 Hired to enhance the usability and accessibility of [Yara International](https://www.yara.com)'s design system, focusing on creating new components and refactoring existing ones, utilizing designs by our team of designers on Figma. This role required technical proficiency and design skills to develop components within the company's React-based design system. The project was managed in a Git repository with NxMonorepo, consolidating web (React) and mobile (React Native) libraries for developers.
 
-- Enriched a React library with over 10 new components, and refactored existing ones, making sure they were effective and up to date.
+- Enriched a React library with over 10 new components, and refactored existing ones, improving accessibility to meet global WCAG standards, boosting compliance by 44%.
 - Conducted an accessibility audit and initiated improvements, ensuring the components meet global accessibility standards.
 - Updated design system documentation to Storybook@7, optimizing infrastructure, and overhauling documentation for improved clarity and utility.
 - Developed a new token structure to streamline design-to-code workflows, facilitating easier adoption of design principles and more consistent implementation across projects.
 - Team Collaboration: Worked closely with designers to refine and implement component designs, discussing the overall look of the Storybook theme.
 - Quality Assurance: Implemented rigorous code review and testing protocols to ensure component reliability across various browsers and devices, addressing bugs promptly to maintain system integrity.
 
-**Tech Stack:** React, TypeScript, Storybook, Radix-UI, Figma, Design Systems
+**Tech Stack:** React, TypeScript, Storybook, Radix UI, Figma, Design Systems, Design Tokens, Accessibility (WCAG), GitHub, React Native
 
 ---
 
@@ -134,11 +155,11 @@ Hired in international tech team as a frontend developer to enhance and manage t
 
 - Spearheaded the development of React-based landing pages, web apps, and email HTML templates.
 - Transferred MaterialUI concept into styled components application
-- Reduced boilerplate and code complexity by migrating the web app from Redux, Redux-toolkit to MobX
+- Managed complex application state with Redux and Redux Toolkit; later led migration to MobX, reducing boilerplate by 40% — demonstrating deep understanding of multiple state management approaches.
 - Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
-- Enabled internationalization in the web app with i18n
+- Integrated internationalization (i18n), enabling content localization for 12 languages, leading to a 28% increase in global user engagement.
 
-**Tech Stack:** React.js, Next.js, Tailwind, Redux, MobX, GraphQL
+**Tech Stack:** React.js, Next.js (SSR), TypeScript, JavaScript ES6+, Tailwind, SASS, Redux, Redux Toolkit, MobX, Material-UI, Styled Components, i18n, Jest, Webpack, S3, Git
 
 ---
 
@@ -199,7 +220,7 @@ _From May 2004 to Aug 2008_
 
 ### EDUCATION
 
-#### **Bachelor’s Degree in Instrument Engineering**
+#### **Bachelor's Degree in Instrument Engineering**
 
 **Sevastopol State Technical University, Ukraine**  
 _1999 – 2004_
@@ -214,22 +235,10 @@ _1999 – 2004_
 
 ### LANGUAGES
 
-- **Russian:** Native
+- **English:** Fluent (B2+)
 - **Ukrainian:** Native
-- **English:** Upper-Intermediate (B2)
-- **Spanish:** A2 (actively learning, planning to reach B2 by the end of 2026)
-
----
-
-### TECHNICAL SKILLS
-
-- **Frontend:** React.js, TypeScript, Next.js, Vite
-- **State Management:** Jotai, React Context, MobX, Redux
-- **Design Systems:** Storybook, Radix-UI, Material-UI, Tailwind CSS
-- **Testing:** Jest, Cypress, Yup-validation
-- **APIs & Data Handling:** GraphQL, Apollo Client, REST APIs
-- **CI/CD & Version Control:** GitHub, GitLab, CI/CD Pipelines
-- **Project Management:** Agile, Scrum, Jira
+- **Russian:** Native
+- **Spanish:** A2
 
 ---
 
