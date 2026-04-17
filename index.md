@@ -26,11 +26,17 @@ Beyond coding, I am passionate about photography, sailing, and continuous learni
 #### **Frontend Engineer - Contractor**
 
 **CloneForce, Newport Beach, California, United States (Remote)**  
-_November 2024 – Present_
+_November 2024 – March 2026_
 
-Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend Engineer to develop an AI-powered personal assistant platform. Led frontend development of a dynamic web app focused on intelligent user interactions and automation. Collaborated with cross-functional teams and implemented modern UI and programming patterns.
+Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend engineer on an AI-powered digital clone platform — a product that creates personalized AI assistants and coaches powered by OpenAI, Pinecone (RAG), and ElevenLabs, deployed across Slack, MS Teams, and web channels.
+→ Led frontend development of the core web application using Next.js, TypeScript, Apollo Client, GraphQL, Jotai, and MUI — building dynamic interfaces for real-time human-AI interactions
+→ Architected a component library of 50+ reusable UI components, establishing a design system with MUI theming from scratch to ensure visual consistency across the platform
+→ Integrated ElevenLabs voice chat using their React SDK — replaced the default embed widget with a custom implementation for full control over the conversational voice UI
+→ Implemented real-time data updates through GraphQL subscriptions (graphql-ws), enabling live clone interactions, status changes, and streaming AI responses in the UI
+→ Built OAuth integration flows for third-party services (Microsoft, Google, HubSpot), enabling clone skills to connect with external platforms on behalf of users
+→ Configured AI-assisted development infrastructure: strict TypeScript, ESLint rules, GitHub branch protections, and detailed project architecture docs — ensuring that AI-generated code (Copilot, Claude) follows the same patterns and conventions as human-written code
 
-**Tech Stack:** Next.js, TypeScript, Jotai, Tailwind, GraphQL
+**Tech Stack:** Next.js, TypeScript, Jotai, Tailwind, Apollo GraphQL
 
 ---
 
@@ -44,6 +50,7 @@ FullStack Engineer in a UK-based team to modernize and support the On the Beach 
 I collaborate with UK colleagues to deliver new features and experiments using JavaScript, TypeScript, GraphQL, React 19, and Next.js 15, employing feature flags for controlled rollouts and quick reversions. My work spans frontend optimization, API integrations, and user experience enhancements, contributing flexibly across multiple areas of the platform.
 
 As part of the Shop XP team, I’ve led and contributed to several key initiatives, including:
+
 - Upgrading the Booking Flow technology stack to the latest React 19 and Next.js 15, improving performance, security, and engineering efficiency.
 - Migrating from Apollo Client 3 to Apollo Client 4, enhancing data management, caching performance, and overall stability.
 - Implementing new UI toggle features, refining default search logic, and expanding tracking coverage for analytics and experimentation.
