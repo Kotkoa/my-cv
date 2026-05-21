@@ -39,21 +39,21 @@ Based in Pego, Spain. Available for remote roles across Europe (CET/CEST timezon
 
 ### EXPERIENCE
 
-#### **Frontend Engineer - Contractor**
+#### **FullStack Engineer - Contractor**
 
 **CloneForce, Newport Beach, California, United States (Remote)**  
 _November 2024 – March 2026_
 
-Joined CloneForce [cloneforce.com](https://cloneforce.com/) as a Frontend Engineer on an AI-powered digital clone platform — a product that creates personalized AI assistants and coaches powered by OpenAI, Pinecone (RAG), and ElevenLabs, deployed across Slack, MS Teams, and web channels. Led frontend development of a dynamic web application, building interfaces for real-time human-AI interactions and automation.
+FullStack Engineer on CloneForce [cloneforce.com](https://cloneforce.com/) an AI-powered digital clone platform that creates personalized AI assistants and coaches powered by OpenAI, Pinecone (RAG), and ElevenLabs, deployed across Slack, MS Teams, and web channels. Developed frontend interfaces for real-time human-AI interactions, conversational voice experiences, and automation workflows within the core web application.
 
-- Led frontend architecture of the core web app using Next.js, TypeScript, Apollo Client, Jotai, and MUI — designing dynamic interfaces for intelligent clone interactions.
-- Architected a component library of 50+ reusable UI components with MUI theming from scratch, ensuring visual consistency across the platform.
-- Integrated ElevenLabs voice chat via React SDK — replaced the default embed widget with a custom implementation for full control over the conversational voice UI.
-- Implemented real-time data updates through GraphQL subscriptions (graphql-ws), enabling live clone interactions, status changes, and streaming AI responses in the UI.
-- Built OAuth integration flows for Microsoft, Google, and HubSpot, enabling clone skills to connect with external platforms on behalf of users.
-- Configured AI-assisted development infrastructure: strict TypeScript, ESLint rules, GitHub branch protections, and detailed project architecture docs — ensuring AI-generated code (Copilot, Claude) follows the same patterns and conventions as human-written code.
-- Reduced page load time by 40% through code splitting, lazy loading, and Apollo Client cache optimization.
-- Implemented comprehensive E2E testing with Cypress, covering critical user flows across the AI assistant interface.
+- Developed real-time AI interaction interfaces using GraphQL subscriptions and streaming updates, enabling conversational clone experiences with live AI responses.
+- Built and maintained a reusable UI component library with 50+ MUI-based components, improving visual consistency across the platform.
+- Integrated ElevenLabs voice chat through the React SDK, replacing the default embed widget with a custom implementation for greater control over the conversational voice UI.
+- Implemented real-time updates using GraphQL subscriptions (graphql-ws), enabling live clone interactions and streaming AI responses.
+- Built OAuth integration flows for Microsoft, Google, and HubSpot, allowing clone skills to securely connect with external platforms on behalf of users.
+- Improved frontend development workflows with strict TypeScript, ESLint, GitHub branch protections, and standardized architecture patterns to maintain consistent code quality.
+- Improved page load performance by 1.2s through code splitting, lazy loading, and Apollo Client cache optimization.
+- Implemented comprehensive Cypress E2E testing covering critical user flows across the AI assistant interface.
 
 **Tech Stack:** React, Next.js (SSR), TypeScript, Jotai, Tailwind, SASS, MUI, Apollo GraphQL, GraphQL Subscriptions, ElevenLabs React SDK, Webpack, Jest, Cypress, Git
 
@@ -94,20 +94,18 @@ Worked as a contract Fullstack Engineer through Netguru [netguru.com](https://ww
 
 #### **Frontend Engineer - Contractor**
 
-**HCX, Los Angeles (Remote)**  
+**Human Capital Exchange (HCX), Los Angeles (Remote)**  
 _September 2022 – January 2025_
 
-I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Developer contractor to enhance the tech crew. My main goal was maintaining and refactoring an existing code of investment application. Our tech team consisted of 12 members, within a company of over 50 people. The project at the edge of fintech, social media, the gig economy, and securities aimed to connect investors, sponsors, and talents on one platform as a web application built with React, and mobile versions for Android and iOS using React Native, based on backend GraphQL API was developed using Python and Go.
+Developed an [HCX](https://www.hcx.org/) trading platform for a new equity-based asset class using React, TypeScript, GraphQL, Jotai, and Jest.
 
-- Web Application Development: Designing and maintaining scalable, responsive applications that perform seamlessly across devices.
-- UI/UX Optimization: Implementing Figma-aligned Material-UI themes to ensure design consistency and reduce redundancy in component libraries.
-- Feature Development: Building advanced user flows, such as multi-step account creation with JSON Forms, Yup validation, and Apollo GraphQL integration.
-- Collaboration: Partnering closely with backend teams to enhance APIs, fix bugs, and develop new features that align with business objectives.
-- Replacing Web3 libraries with bank transaction functionalities and enabling debit/credit card and bank account features.
-- Integrating DocuSign to streamline in-app signing processes, reducing turnaround time by 40% while ensuring compliance with legal and KYC standards.
-- Migrating to an Nx Monorepo, simplifying project scaling and maintenance.
-- Built CI/CD testing pipeline integrating Jest (unit) and Cypress (E2E) for automated user flow validation, reducing manual QA time by 25% and catching regressions before deployment.
-- Enhanced Material-UI global theme, streamlining common styles to save 68 workdays on component creation ($8,000 savings).
+- Configured a CI/CD pipeline with Jest unit tests and Cypress E2E integration, achieving 80%+ test coverage for critical user flows, reducing regression bugs by 35%, and decreasing manual QA effort through automated user flow validation.
+- Streamlined account setup flows for multiple user types by integrating JSON Forms, Yup validation, and Apollo GraphQL, significantly improving onboarding and form completion flows.
+- Collaborated with the backend team to extend and improve API integrations, adding new features and resolving issues that improved server performance by 20% and accelerated feature delivery by 25%.
+- Simplified the payment architecture by removing three blockchain libraries, migrating to bank transactions, and implementing debit/credit card and bank account functionality, reducing operational costs by 30%.
+- Integrated DocuSign for in-app application signing, streamlining document workflows, reducing turnaround time by 40%, and supporting KYC and legal compliance requirements.
+- Contributed to onboarding documentation and developer integration processes, helping reduce onboarding time from one month to one week.
+- Enhanced the global Material-UI theme system by consolidating shared styles and reusable patterns, reducing component development time and saving approximately 68 engineering workdays.
 
 **Tech Stack:** React, TypeScript, Jotai, Material-UI, GraphQL, Next.js, Jest, Cypress
 
@@ -138,11 +136,13 @@ _December 2022 – September 2023_
 
 I was recruited as a Frontend and UI developer to join [Bridge the Gap](https://bridge-the-gap.dev), a European-based team of developers led by Varia Stepanova, to enhance the team's capabilities. This role enabled me to combine my technical expertise with a keen sense of design, contributing significantly to our digital systems.
 
-- Maintained and expanded the **npm-based design system library** with new **React components**.
-- Migrated the **web app from Gatsby@3 to Gatsby@5**, improving performance and maintainability.
-- Upgraded server-side resolvers to ensure seamless functionality.
+- Maintained a Next.js website, migrating the platform from Next.js 12 to 14.
+- Updated the design system npm library with new reusable React components.
+- Migrated the web application from Gatsby 3 to Gatsby 5, improving compatibility, maintainability, and build performance.
+- Refactored project components to improve performance and maintainability, including upgrading dependencies such as @mdx-js/react, improving code quality with ESLint and Prettier, and enhancing UI components and image rendering across web pages.
+- Contributed to the design system npm library by implementing major updates to the ProfileCard component across multiple releases, improving layout styling, UI consistency, and component functionality.
 
-**Tech Stack:** React.js, GatsbyJS, Jest, Tailwind CSS, Figma, Design Systems
+**Tech Stack:** React.js, Next.js, GatsbyJS, Jest, Tailwind CSS, Figma, Design Systems
 
 ---
 
@@ -153,11 +153,11 @@ _November 2021 – July 2022_
 
 Hired in international tech team as a frontend developer to enhance and manage their innovative digital identity platform, [rns.id](https://rns.id/) (Root Name System). The project aimed to develop an application by issuance of digital IDs of digital residence islands of Palau. My role was on optimizing and redesigning web applications, integrating new features of Document verifications, and elevating quality through measures such as Sentry.io logging, TypeScript migration, and Jest test coverage. A key part of my responsibilities included fast-forward landing page creation to meet marketing team goals.
 
-- Spearheaded the development of React-based landing pages, web apps, and email HTML templates.
-- Transferred MaterialUI concept into styled components application
-- Managed complex application state with Redux and Redux Toolkit; later led migration to MobX, reducing boilerplate by 40% — demonstrating deep understanding of multiple state management approaches.
-- Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control
-- Integrated internationalization (i18n), enabling content localization for 12 languages, leading to a 28% increase in global user engagement.
+- Developed 3 landing pages, 2 web apps, and 35 HTML email templates for user subscriptions, improving user engagement and implementing features such as ID verification, TypeScript migration, and Jest test coverage.
+- Refined MaterialUI components into Styled Components, improving UI flexibility and responsiveness; decreased app load time by 40% and increased user satisfaction ratings by 15%.
+- Managed complex application state using Redux and Redux Toolkit; later migrated state management to MobX, reducing boilerplate by 40% and improving maintainability across the application.
+- Implemented multi-site (multizone) experience (SSR and SPA) as one web app for developing both websites independently with the same level of control.
+- Integrated internationalization using i18n, enabling localization for 12 new languages and contributing to a 28% increase in global user engagement.
 
 **Tech Stack:** React.js, Next.js (SSR), TypeScript, JavaScript ES6+, Tailwind, SASS, Redux, Redux Toolkit, MobX, Material-UI, Styled Components, i18n, Jest, Webpack, S3, Git
 
@@ -238,7 +238,7 @@ _1999 – 2004_
 - **English:** Fluent (B2+)
 - **Ukrainian:** Native
 - **Russian:** Native
-- **Spanish:** A2
+- **Spanish:** Conversational
 
 ---
 
@@ -256,4 +256,4 @@ _1999 – 2004_
 
 This section is for a simple check-in—just updating the version to mark my presence and keep the GitHub contribution graph green.
 
-**Current version:** v1.02.11
+**Current version:** v1.02.12
