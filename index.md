@@ -209,7 +209,55 @@ _1999 – 2004_
 
 ### PORTFOLIO
 
-- **[EV Libre](https://evlibre.cc)** – Real-time PWA tracking EV charger availability (Spain/Iberdrola), with web push when a port frees up. React 19 · TypeScript · Vite · MUI · Supabase (Realtime, Edge Functions, Postgres). **Live in production, built solo.**
-- **[Bitcoin Testnet Wallet](https://github.com/kotkoa/bitcoin-wallet/)** – Minimalist Bitcoin wallet using React.js, Next.js, and Redux Toolkit.
-- **[Rick and Morty Explorer](https://rickandmorty-2024.vercel.app/)** – Character browser using **GraphQL API**, React, and TypeScript.
-- **[Simple Auth App](https://github.com/Kotkoa/simple-auth-app)** – OAuth integration (Google & Microsoft) — mirrors production auth flows.
+#### [EV Libre](https://evlibre.cc)
+
+![EV Libre — real-time EV charger availability and push alerts](assets/img/portfolio/evlibre.jpg)
+
+Real-time PWA tracking EV charger availability on Spain's Iberdrola network, with web push the moment a port frees up. Live in production, built and run solo end-to-end — scraper, Edge Functions, Postgres, PWA — now moving from MVP to a paid subscription model.
+
+**Stack:** React 19 · TypeScript · Vite · MUI · Supabase (Realtime, Edge Functions, Postgres) · Web Push/VAPID  
+**[Live →](https://evlibre.cc)**
+
+---
+
+#### [SENTINEL Onboarding](https://sentinel-onboarding-peach.vercel.app)
+
+![SENTINEL — client onboarding risk classification dashboard](assets/img/portfolio/sentinel-onboarding.jpg)
+
+SPA prototype for client onboarding risk assessment at a UK wealth-management firm: real-time risk classification against a data-driven ruleset, a compliance audit dashboard, and a swappable repository layer (Supabase / IndexedDB / in-memory) behind one interface.
+
+**Stack:** Vite · React 18 · TypeScript (strict) · Tailwind v4 · Supabase · Vitest, Testing Library, jest-axe  
+**[Live →](https://sentinel-onboarding-peach.vercel.app)** · **[Code →](https://github.com/Kotkoa/sentinel-onboarding)**
+
+---
+
+#### [SpaceX Explorer](https://digt-ag-space-x-explorer.vercel.app)
+
+![SpaceX Explorer — launch browser with filters, stats and virtualized list](assets/img/portfolio/spacex-explorer.jpg)
+
+Production-grade SpaceX launch browser: server-side filtering/search, an infinite-scroll list virtualized with `react-window`, launch statistics, favorites persisted to `localStorage`, and a keyboard-accessible photo lightbox — built solo on the public SpaceX API.
+
+**Stack:** Next.js 16 · TypeScript · React Query (TanStack) · react-window · Vitest  
+**[Live →](https://digt-ag-space-x-explorer.vercel.app)** · **[Code →](https://github.com/Kotkoa/DigtAG-SpaceX-Explorer)**
+
+---
+
+#### [Piscinas Yuriy](https://piscinasyuriy.es)
+
+![Piscinas Yuriy — pool construction landing page for a Costa Blanca client](assets/img/portfolio/piscinas-yuriy.jpg)
+
+Freelance client delivery: a landing page for a Spanish pool-construction business (Alicante/Valencia). Dependency-free static site — responsive image sets (AVIF/WebP/JPEG fallbacks), no build step — so the client's team can edit it directly.
+
+**Stack:** Semantic HTML/CSS/JS, no framework · GitHub Pages CI/CD  
+**[Live →](https://piscinasyuriy.es)** · **[Code →](https://github.com/Kotkoa/piscinas-yuriy)**
+
+---
+
+**More projects:**
+
+- **[Bravira](https://bravira.es)** – Booking site for active outdoor tours (kayaking, hiking, via ferrata, sailing) on the Costa Blanca. MODX CMS on IONOS, with a SQL migration workflow and a disciplined production-sync process for a client's live site.
+- **[Kotkoa Studio](https://kotkoa.com)** – Personal creative-studio site with a Shopify-backed store. Next.js 16 static export, React 19 + React Compiler, Tailwind v4 CSS-first theming, Jotai state, dynamic OG images, Schema.org JSON-LD. — [Code](https://github.com/Kotkoa/stocker)
+- **[Aurelius Trust Labs](https://kotkoa.github.io/CLHomepage/)** – Corporate homepage built with React 18, Vite 6, and Tailwind CSS 4. — [Code](https://github.com/Kotkoa/CLHomepage)
+- **[Lavender·Herbs](https://lavenderherbs.org)** – Farm/e-commerce site with a 10-step monochromatic design system that darkens as you scroll. Next.js 16, React 19, Tailwind v4. — [Code](https://github.com/Kotkoa/lavender-herbs)
+- **[Metaverse](https://kotkoa.github.io/metaverse)** – Concept NFT marketplace: browse, filter, and bid on cards. Next.js 15, React 19, TypeScript, Tailwind CSS. — [Code](https://github.com/Kotkoa/metaverse)
+- **[Rick and Morty Explorer](https://rickandmorty-2024.vercel.app)** – Character/location/episode browser over the Rick and Morty **GraphQL API**, with Apollo Client caching and Jotai state. — [Code](https://github.com/Kotkoa/rickandmorty)
