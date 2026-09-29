@@ -12,9 +12,9 @@ layout: default
 
 ### ABOUT ME
 
-I build the frontend for AI-powered products — and I've shipped the hard parts most React engineers never touch: real-time AI streaming, conversational voice UIs, and deep GraphQL data layers. Senior Frontend Engineer, 6+ years of commercial React/TypeScript/Next.js across distributed international teams, most recently on contract. Currently building and running my own product (EV Libre) end-to-end while open to my next role.
+I build the frontend for AI-powered products — and I've shipped the hard parts most React engineers never touch: real-time AI streaming, conversational voice UIs, and deep GraphQL data layers. Senior Frontend Engineer, 4+ years of commercial React/TypeScript/Next.js across distributed international teams, most recently on contract. Currently building and running my own product (EV Libre) end-to-end while open to my next role.
 
-**Proof:** at CloneForce (AI digital-clone platform on OpenAI, Pinecone/RAG, ElevenLabs) I built the core web app — real-time human–AI interaction via GraphQL subscriptions and streaming, a custom ElevenLabs voice chat UI, OAuth flows for Microsoft/Google/HubSpot, and a 50+ component MUI library. And I ship solo: [EV Libre](https://evlibre.cc) is my real-time PWA (React 19, Supabase Realtime, web push) live in production today. Earlier, at an equity-trading platform (HCX) I cut operational cost 30% by removing three blockchain libraries and migrating to bank payments.
+**Proof:** at CloneForce (AI digital-clone platform on OpenAI, Pinecone/RAG, ElevenLabs) I was the main frontend contributor — real-time human–AI interaction via GraphQL subscriptions, a custom ElevenLabs voice chat UI, Slack/Teams/WhatsApp connections, and 41 of the app's 49 Cypress specs. And I ship solo: [EV Libre](https://evlibre.cc) is my real-time PWA (React 19, Supabase Realtime, web push) live in production today. Earlier, at an equity-trading platform (HCX), I grew into the de facto lead frontend engineer and shipped the investing flow, investor accreditation, and the platform's first KYC flow.
 
 **Differentiators:** deep Apollo Client expertise (custom cache strategies, type policies, AC3→4 migration, WebSocket subscriptions), design systems across four production projects (Yara International, HCX, Bridge The Gap, CloneForce), and a strong testing culture (Jest, Cypress, Playwright) with WCAG-accessible, performance-tuned UIs.
 
@@ -27,7 +27,7 @@ Based in Pego, Spain — work permit in hand, available now for remote roles acr
 **Core (what I'm hired for):**
 - **Frontend:** React, TypeScript, Next.js (SSR/SSG), JavaScript ES6+
 - **Data:** Apollo Client / GraphQL, GraphQL Subscriptions, REST APIs
-- **AI integrations:** ElevenLabs SDK, OpenAI API, RAG-aware UIs, OAuth (Microsoft, Google, HubSpot)
+- **AI integrations:** ElevenLabs SDK, RAG-aware UIs, OAuth integrations (Slack, Microsoft Teams)
 - **Design systems:** MUI, Tailwind, Storybook, Radix UI, Design Tokens, Accessibility (WCAG)
 - **Testing:** Jest, Cypress, Playwright, React Testing Library
 
@@ -40,7 +40,7 @@ Based in Pego, Spain — work permit in hand, available now for remote roles acr
 #### **Founder & Fullstack Engineer**
 
 **EV Libre — [evlibre.cc](https://evlibre.cc) (Remote, Spain)**  
-_October 2025 – Present_
+_November 2025 – Present_
 
 Built end-to-end, solo: a real-time PWA that tracks EV charge-point availability on Spain's Iberdrola network and push-notifies users the moment an occupied port frees up. Live in production; moving from MVP to a paid subscription model. AI-assisted, hypothesis-first workflow with automated review gates and a full test battery on every change.
 
@@ -61,13 +61,13 @@ _November 2024 – March 2026_
 FullStack Engineer on an AI-powered digital clone platform that creates personalized AI assistants and coaches powered by OpenAI, Pinecone (RAG), and ElevenLabs, deployed across Slack, MS Teams, and web channels. Developed frontend interfaces for real-time human-AI interactions, conversational voice experiences, and automation workflows within the core web application.
 
 - Developed real-time AI interaction interfaces using GraphQL subscriptions and streaming updates, enabling conversational clone experiences with live AI responses.
-- Built and maintained a reusable UI component library with 50+ MUI-based components, improving visual consistency across the platform.
+- Migrated the UI from Radix UI to MUI in 10 incremental PRs and moved Tailwind CSS from v3 to v4 across 164 files, improving visual consistency across the platform.
 - Integrated ElevenLabs voice chat through the React SDK, replacing the default embed widget with a custom implementation for greater control over the conversational voice UI.
-- Implemented real-time updates using GraphQL subscriptions (graphql-ws), enabling live clone interactions and streaming AI responses.
-- Built OAuth integration flows for Microsoft, Google, and HubSpot, allowing clone skills to securely connect with external platforms on behalf of users.
+- Led the Apollo Client 3 to 4 migration across 136 files and built organization switching that clears cached data and reconnects GraphQL WebSocket subscriptions, so users in several organizations never see another tenant's data.
+- Built Slack, Microsoft Teams, and WhatsApp connection flows, allowing clones to securely connect with external platforms on behalf of users.
 - Improved frontend development workflows with strict TypeScript, ESLint, GitHub branch protections, and standardized architecture patterns to maintain consistent code quality.
-- Improved page load performance by 1.2s through code splitting, lazy loading, and Apollo Client cache optimization.
-- Implemented comprehensive Cypress E2E testing covering critical user flows across the AI assistant interface.
+- Improved Largest Contentful Paint on the main clone grid by about 1.2s by deferring heavy third-party scripts and prioritizing above-the-fold images with next/image.
+- Wrote 41 of the app's 49 Cypress specs (370+ test cases) covering login, chat, clone creation, and data isolation between organizations.
 
 **Tech Stack:** React, Next.js (SSR), TypeScript, Jotai, Tailwind, SASS, MUI, Apollo GraphQL, GraphQL Subscriptions, ElevenLabs React SDK, Webpack, Jest, Cypress, Git
 
@@ -85,8 +85,7 @@ I collaborated with UK colleagues to deliver new features and experiments using 
 As part of the Shop XP team, I've led and contributed to several key initiatives, including:
 
 - Upgrading the Booking Flow technology stack to the latest React 19 and Next.js 15, improving performance, security, and engineering efficiency.
-- Migrating from Apollo Client 3 to Apollo Client 4, enhancing data management, caching performance, and overall stability.
-- Implemented feature flags for controlled rollouts and A/B experimentation, enabling data-driven UI decisions across 3 concurrent experiments.
+- Implemented feature flags for controlled rollouts and A/B experimentation, shipping about 25 experiments (up to 3 running at once) to support data-driven UI decisions.
 - Implementing new UI toggle features, refining default search logic, and expanding tracking coverage for analytics and experimentation.
 
 These improvements have resulted in faster page loads, smoother navigation between search and deal detail pages, and a more reliable, scalable foundation for future development.
@@ -98,17 +97,17 @@ These improvements have resulted in faster page loads, smoother navigation betwe
 #### **Frontend Engineer - Contractor**
 
 **Human Capital Exchange (HCX), Los Angeles (Remote)**  
-_September 2022 – January 2025_
+_September 2022 – November 2024_
 
 Developed an [HCX](https://www.hcx.org/) trading platform for a new equity-based asset class using React, TypeScript, GraphQL, Jotai, and Jest.
 
-- Configured a CI/CD pipeline with Jest unit tests and Cypress E2E integration, achieving 80%+ test coverage for critical user flows and cutting manual QA effort through automated user-flow validation.
-- Streamlined account setup flows for multiple user types by integrating JSON Forms, Yup validation, and Apollo GraphQL, significantly improving onboarding and form completion.
-- Collaborated with the backend team to extend and improve API integrations, adding new features and resolving issues that accelerated feature delivery.
-- Simplified the payment architecture by removing three blockchain libraries, migrating to bank transactions, and implementing debit/credit card and bank account functionality, reducing operational costs by 30%.
-- Integrated DocuSign for in-app application signing, streamlining document workflows and supporting KYC and legal compliance requirements.
-- Contributed to onboarding documentation and developer integration processes, helping reduce onboarding time from one month to one week.
-- Enhanced the global Material-UI theme system by consolidating shared styles and reusable patterns, reducing component development time across the platform.
+- Grew into the de facto lead frontend engineer, writing 72–79% of all commits in the second half of 2024.
+- Built the core investing experience: offering pages with a live price chart showing each investor's own orders, a 5-step buy flow with in-app subscription-agreement signing via PandaDoc, order book, and portfolio.
+- Shipped the investor-accreditation gate and the platform's first identity-verification (KYC) flow almost single-handedly.
+- Streamlined account setup flows for multiple user types with schema-driven forms, Yup validation, and Apollo GraphQL.
+- Helped simplify the payment architecture by moving from blockchain wallets to Plaid-linked bank transfers, with deposit, withdrawal, and insufficient-funds flows.
+- Owned the Cypress E2E suite (91% of test commits) with Auth0 programmatic login, GraphQL mocks, and visual-regression snapshots running in GitLab CI.
+- Enhanced the global Material-UI theme system by consolidating shared styles and reusable patterns across the platform.
 
 **Tech Stack:** React, TypeScript, Jotai, Material-UI, GraphQL, Next.js, Jest, Cypress
 
@@ -121,12 +120,12 @@ _August 2023 – January 2024_
 
 Hired to enhance the usability and accessibility of [Yara International](https://www.yara.com)'s design system, focusing on creating new components and refactoring existing ones, utilizing designs by our team of designers on Figma. This role required technical proficiency and design skills to develop components within the company's React-based design system. The project was managed in a Git repository with NxMonorepo, consolidating web (React) and mobile (React Native) libraries for developers.
 
-- Enriched a React library with 10+ new components and refactored existing ones, improving accessibility to meet global WCAG standards.
-- Conducted an accessibility audit and initiated improvements, ensuring the components meet global accessibility standards.
-- Updated design system documentation to Storybook@7, optimizing infrastructure, and overhauling documentation for improved clarity and utility.
-- Developed a new token structure to streamline design-to-code workflows, facilitating easier adoption of design principles and more consistent implementation across projects.
+- Built 5 new accessible React components (Stack, Navigation Rail, Accordion, Select Item, Select Group), each shipped as its own npm release, and refactored 17 existing ones.
+- Fixed keyboard-focus and screen-reader gaps (tabIndex, aria labels, navigation roles) in existing components such as Sidebar and Pagination.
+- Restructured the Storybook 7 documentation after the upgrade: a new doc-page theme and Figma/GitHub links for every component.
+- Extended the design-token scale across React and React Native and moved web font sizes from px to rem so text respects user zoom settings.
 - Team Collaboration: Worked closely with designers to refine and implement component designs, discussing the overall look of the Storybook theme.
-- Quality Assurance: Implemented rigorous code review and testing protocols to ensure component reliability across various browsers and devices, addressing bugs promptly to maintain system integrity.
+- Quality Assurance: wrote Jest tests for the new components and worked through code review on every change.
 
 **Tech Stack:** React, TypeScript, Storybook, Radix UI, Figma, Design Systems, Design Tokens, Accessibility (WCAG), GitHub, React Native
 
@@ -166,12 +165,12 @@ Hired in international tech team as a frontend developer to enhance and manage t
 
 ---
 
-#### **Freelance Javascript Developer (React.JS & Node.JS)**
+#### **JavaScript Training (React.JS & Node.JS)**
 
-**Freelance, Tenerife, Spain (Remote)**  
+**Courses and practice projects, Tenerife, Spain**  
 _January 2020 – December 2021_
 
-I was acting as a full-stack engineer, creating services and endpoints with Express and frontend logic with React. I was responsible for the development of a web application for a local business. The application was built with React, Redux, and Node.js, and was designed to be responsive and accessible across various devices.
+Retrained into JavaScript development through courses and practice projects: services and endpoints with Express, frontend logic with React and Redux, and responsive, accessible layouts.
 
 - Integrated Javascript Playground for creating sandboxes with the ability to run and check code snippets without any need for deployment
 - Migrated to clean React with Context API
@@ -200,7 +199,7 @@ _1999 – 2004_
 
 ### LANGUAGES
 
-- **English:** Fluent (B2+)
+- **English:** C1 (professional working)
 - **Ukrainian:** Native
 - **Russian:** Native
 - **Spanish:** Conversational
